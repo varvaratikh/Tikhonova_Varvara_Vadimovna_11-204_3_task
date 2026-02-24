@@ -1,0 +1,2070 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>1721 год — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"bb52fa28-e95e-420a-b99d-684d8e797057","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1721_год","wgTitle":"1721 год","wgCurRevisionId":150844092,"wgRevisionId":150844092,"wgArticleId":3833,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN","Все хронологические списки","Википедия:Ссылка на Викитеку непосредственно в статье","Статьи со ссылками на Викисклад","Википедия:Статьи без ссылок на источники с июня 2018 года","Википедия:Статьи без источников (не распределённые по типам)","1721 год"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"1721_год","wgRelevantArticleId":3833,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":150844092,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q6913","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.WP25Banner","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2Clogo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="1721 год — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/1721_%D0%B3%D0%BE%D0%B4">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-1721_год rootpage-1721_год skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">1721 год</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox vertical-navbox" data-name="Навигация для года" style="text-align:center">
+<tbody><tr>
+<th scope="col" class="infobox-header"><a href="/wiki/%D0%93%D0%BE%D0%B4" title="Год">Годы</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/1717_%D0%B3%D0%BE%D0%B4" title="1717 год"> 1717 </a> · <a href="/wiki/1718_%D0%B3%D0%BE%D0%B4" title="1718 год"> 1718 </a> · <a href="/wiki/1719_%D0%B3%D0%BE%D0%B4" title="1719 год"> 1719 </a> · <a href="/wiki/1720_%D0%B3%D0%BE%D0%B4" title="1720 год"> 1720 </a> — <b><a class="mw-selflink selflink"> 1721 </a></b> — <a href="/wiki/1722_%D0%B3%D0%BE%D0%B4" title="1722 год"> 1722 </a> · <a href="/wiki/1723_%D0%B3%D0%BE%D0%B4" title="1723 год"> 1723 </a> · <a href="/wiki/1724_%D0%B3%D0%BE%D0%B4" title="1724 год"> 1724 </a> · <a href="/wiki/1725_%D0%B3%D0%BE%D0%B4" title="1725 год"> 1725 </a>
+</td></tr>
+<tr>
+<th scope="col" class="infobox-header"><a href="/wiki/%D0%94%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%B8%D0%B5" title="Десятилетие">Десятилетия</a>
+</th></tr>
+<tr>
+<td><span class="nowrap"><a href="/wiki/1700-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1700-е годы">1700-е</a></span> · <span class="nowrap"><a href="/wiki/1710-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1710-е годы">1710-е</a></span> — <b><span class="nowrap"><a href="/wiki/1720-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1720-е годы">1720-е</a></span></b> — <span class="nowrap"><a href="/wiki/1730-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1730-е годы">1730-е</a></span> · <span class="nowrap"><a href="/wiki/1740-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1740-е годы">1740-е</a></span>
+</td></tr>
+<tr>
+<th scope="col" class="infobox-header"><a href="/wiki/%D0%92%D0%B5%D0%BA" title="Век">Века</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII&#160;век</a> — <b><a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII&#160;век</a></b> — <a href="/wiki/XIX_%D0%B2%D0%B5%D0%BA" title="XIX век">XIX&#160;век</a>
+</td></tr></tbody></table>
+<div class="center vertical-navbox tright" style="max-width: 35em; width: max-content">
+<div><a href="/wiki/2-%D0%B5_%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D0%B5" title="2-е тысячелетие">2-е&#160;тысячелетие</a></div>
+<style data-mw-deduplicate="TemplateStyles:r136833263">.mw-parser-output .hlist dl,.mw-parser-output .hlist.hlist ol,.mw-parser-output .hlist.hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li,.mw-parser-output .hlist .mw-empty-elt{display:none}.mw-parser-output .hlist dt:after{content:": "}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:"\a0 · ";font-weight:bold}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist dd dd:first-child:before,.mw-parser-output .hlist dd dt:first-child:before,.mw-parser-output .hlist dd li:first-child:before,.mw-parser-output .hlist dt dd:first-child:before,.mw-parser-output .hlist dt dt:first-child:before,.mw-parser-output .hlist dt li:first-child:before,.mw-parser-output .hlist li dd:first-child:before,.mw-parser-output .hlist li dt:first-child:before,.mw-parser-output .hlist li li:first-child:before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child:after,.mw-parser-output .hlist dd dt:last-child:after,.mw-parser-output .hlist dd li:last-child:after,.mw-parser-output .hlist dt dd:last-child:after,.mw-parser-output .hlist dt dt:last-child:after,.mw-parser-output .hlist dt li:last-child:after,.mw-parser-output .hlist li dd:last-child:after,.mw-parser-output .hlist li dt:last-child:after,.mw-parser-output .hlist li li:last-child:after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .hlist-items-nowrap dd,.mw-parser-output .hlist-items-nowrap dt,.mw-parser-output .hlist-items-nowrap li{white-space:nowrap}.mw-parser-output .hlist-items-nowrap dl dl,.mw-parser-output .hlist-items-nowrap dl ol,.mw-parser-output .hlist-items-nowrap dl ul,.mw-parser-output .hlist-items-nowrap ol dl,.mw-parser-output .hlist-items-nowrap ol ol,.mw-parser-output .hlist-items-nowrap ol ul,.mw-parser-output .hlist-items-nowrap ul dl,.mw-parser-output .hlist-items-nowrap ul ol,.mw-parser-output .hlist-items-nowrap ul ul{white-space:normal}</style><div class="hlist" style="margin-left: 0em;">
+<ul><li><a href="/wiki/XVI_%D0%B2%D0%B5%D0%BA" title="XVI век">XVI&#160;век</a></li>
+<li><a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII&#160;век</a></li>
+<li><b><a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII&#160;век</a></b></li>
+<li><a href="/wiki/XIX_%D0%B2%D0%B5%D0%BA" title="XIX век">XIX&#160;век</a></li>
+<li><a href="/wiki/XX_%D0%B2%D0%B5%D0%BA" title="XX век">XX&#160;век</a></li></ul>
+</div>
+<style data-mw-deduplicate="TemplateStyles:r143842860">.mw-parser-output .ts-Десятилетия_и_годы_века{text-align:center}.mw-parser-output .ts-Десятилетия_и_годы_века tr{font-size:90%}.mw-parser-output .ts-Десятилетия_и_годы_века tr:first-child,.mw-parser-output .ts-Десятилетия_и_годы_века:not(.ts-Десятилетия_и_годы_века--no-last-row) tr:last-child{background:var(--background-color-disabled-subtle,#eaecf0);font-size:85%}.mw-parser-output .ts-Десятилетия_и_годы_века tr:first-child>*{border-bottom-width:2px}.mw-parser-output .ts-Десятилетия_и_годы_века:not(.ts-Десятилетия_и_годы_века--no-last-row) tr:last-child>*{border-top-width:2px}</style>
+<table class="ts-Десятилетия&#95;и&#95;годы&#95;века wikitable">
+
+ 
+<tbody><tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1690-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1690-е годы">1690-е</a></span>
+</th>
+<td><a href="/wiki/1690_%D0%B3%D0%BE%D0%B4" title="1690 год"> 1690 </a>
+</td>
+<td><a href="/wiki/1691_%D0%B3%D0%BE%D0%B4" title="1691 год"> 1691 </a>
+</td>
+<td><a href="/wiki/1692_%D0%B3%D0%BE%D0%B4" title="1692 год"> 1692 </a>
+</td>
+<td><a href="/wiki/1693_%D0%B3%D0%BE%D0%B4" title="1693 год"> 1693 </a>
+</td>
+<td><a href="/wiki/1694_%D0%B3%D0%BE%D0%B4" title="1694 год"> 1694 </a>
+</td>
+<td><a href="/wiki/1695_%D0%B3%D0%BE%D0%B4" title="1695 год"> 1695 </a>
+</td>
+<td><a href="/wiki/1696_%D0%B3%D0%BE%D0%B4" title="1696 год"> 1696 </a>
+</td>
+<td><a href="/wiki/1697_%D0%B3%D0%BE%D0%B4" title="1697 год"> 1697 </a>
+</td>
+<td><a href="/wiki/1698_%D0%B3%D0%BE%D0%B4" title="1698 год"> 1698 </a>
+</td>
+<td><a href="/wiki/1699_%D0%B3%D0%BE%D0%B4" title="1699 год"> 1699 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1700-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1700-е годы">1700-е</a></span>
+</th>
+<td class="shadow"><a href="/wiki/1700_%D0%B3%D0%BE%D0%B4" title="1700 год"> 1700 </a>
+</td>
+<td><a href="/wiki/1701_%D0%B3%D0%BE%D0%B4" title="1701 год"> 1701 </a>
+</td>
+<td><a href="/wiki/1702_%D0%B3%D0%BE%D0%B4" title="1702 год"> 1702 </a>
+</td>
+<td><a href="/wiki/1703_%D0%B3%D0%BE%D0%B4" title="1703 год"> 1703 </a>
+</td>
+<td><a href="/wiki/1704_%D0%B3%D0%BE%D0%B4" title="1704 год"> 1704 </a>
+</td>
+<td><a href="/wiki/1705_%D0%B3%D0%BE%D0%B4" title="1705 год"> 1705 </a>
+</td>
+<td><a href="/wiki/1706_%D0%B3%D0%BE%D0%B4" title="1706 год"> 1706 </a>
+</td>
+<td><a href="/wiki/1707_%D0%B3%D0%BE%D0%B4" title="1707 год"> 1707 </a>
+</td>
+<td><a href="/wiki/1708_%D0%B3%D0%BE%D0%B4" title="1708 год"> 1708 </a>
+</td>
+<td><a href="/wiki/1709_%D0%B3%D0%BE%D0%B4" title="1709 год"> 1709 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1710-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1710-е годы">1710-е</a></span>
+</th>
+<td><a href="/wiki/1710_%D0%B3%D0%BE%D0%B4" title="1710 год"> 1710 </a>
+</td>
+<td><a href="/wiki/1711_%D0%B3%D0%BE%D0%B4" title="1711 год"> 1711 </a>
+</td>
+<td><a href="/wiki/1712_%D0%B3%D0%BE%D0%B4" title="1712 год"> 1712 </a>
+</td>
+<td><a href="/wiki/1713_%D0%B3%D0%BE%D0%B4" title="1713 год"> 1713 </a>
+</td>
+<td><a href="/wiki/1714_%D0%B3%D0%BE%D0%B4" title="1714 год"> 1714 </a>
+</td>
+<td><a href="/wiki/1715_%D0%B3%D0%BE%D0%B4" title="1715 год"> 1715 </a>
+</td>
+<td><a href="/wiki/1716_%D0%B3%D0%BE%D0%B4" title="1716 год"> 1716 </a>
+</td>
+<td><a href="/wiki/1717_%D0%B3%D0%BE%D0%B4" title="1717 год"> 1717 </a>
+</td>
+<td><a href="/wiki/1718_%D0%B3%D0%BE%D0%B4" title="1718 год"> 1718 </a>
+</td>
+<td><a href="/wiki/1719_%D0%B3%D0%BE%D0%B4" title="1719 год"> 1719 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1720-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1720-е годы">1720-е</a></span>
+</th>
+<td><a href="/wiki/1720_%D0%B3%D0%BE%D0%B4" title="1720 год"> 1720 </a>
+</td>
+<td><a class="mw-selflink selflink"> 1721 </a>
+</td>
+<td><a href="/wiki/1722_%D0%B3%D0%BE%D0%B4" title="1722 год"> 1722 </a>
+</td>
+<td><a href="/wiki/1723_%D0%B3%D0%BE%D0%B4" title="1723 год"> 1723 </a>
+</td>
+<td><a href="/wiki/1724_%D0%B3%D0%BE%D0%B4" title="1724 год"> 1724 </a>
+</td>
+<td><a href="/wiki/1725_%D0%B3%D0%BE%D0%B4" title="1725 год"> 1725 </a>
+</td>
+<td><a href="/wiki/1726_%D0%B3%D0%BE%D0%B4" title="1726 год"> 1726 </a>
+</td>
+<td><a href="/wiki/1727_%D0%B3%D0%BE%D0%B4" title="1727 год"> 1727 </a>
+</td>
+<td><a href="/wiki/1728_%D0%B3%D0%BE%D0%B4" title="1728 год"> 1728 </a>
+</td>
+<td><a href="/wiki/1729_%D0%B3%D0%BE%D0%B4" title="1729 год"> 1729 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1730-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1730-е годы">1730-е</a></span>
+</th>
+<td><a href="/wiki/1730_%D0%B3%D0%BE%D0%B4" title="1730 год"> 1730 </a>
+</td>
+<td><a href="/wiki/1731_%D0%B3%D0%BE%D0%B4" title="1731 год"> 1731 </a>
+</td>
+<td><a href="/wiki/1732_%D0%B3%D0%BE%D0%B4" title="1732 год"> 1732 </a>
+</td>
+<td><a href="/wiki/1733_%D0%B3%D0%BE%D0%B4" title="1733 год"> 1733 </a>
+</td>
+<td><a href="/wiki/1734_%D0%B3%D0%BE%D0%B4" title="1734 год"> 1734 </a>
+</td>
+<td><a href="/wiki/1735_%D0%B3%D0%BE%D0%B4" title="1735 год"> 1735 </a>
+</td>
+<td><a href="/wiki/1736_%D0%B3%D0%BE%D0%B4" title="1736 год"> 1736 </a>
+</td>
+<td><a href="/wiki/1737_%D0%B3%D0%BE%D0%B4" title="1737 год"> 1737 </a>
+</td>
+<td><a href="/wiki/1738_%D0%B3%D0%BE%D0%B4" title="1738 год"> 1738 </a>
+</td>
+<td><a href="/wiki/1739_%D0%B3%D0%BE%D0%B4" title="1739 год"> 1739 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1740-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1740-е годы">1740-е</a></span>
+</th>
+<td><a href="/wiki/1740_%D0%B3%D0%BE%D0%B4" title="1740 год"> 1740 </a>
+</td>
+<td><a href="/wiki/1741_%D0%B3%D0%BE%D0%B4" title="1741 год"> 1741 </a>
+</td>
+<td><a href="/wiki/1742_%D0%B3%D0%BE%D0%B4" title="1742 год"> 1742 </a>
+</td>
+<td><a href="/wiki/1743_%D0%B3%D0%BE%D0%B4" title="1743 год"> 1743 </a>
+</td>
+<td><a href="/wiki/1744_%D0%B3%D0%BE%D0%B4" title="1744 год"> 1744 </a>
+</td>
+<td><a href="/wiki/1745_%D0%B3%D0%BE%D0%B4" title="1745 год"> 1745 </a>
+</td>
+<td><a href="/wiki/1746_%D0%B3%D0%BE%D0%B4" title="1746 год"> 1746 </a>
+</td>
+<td><a href="/wiki/1747_%D0%B3%D0%BE%D0%B4" title="1747 год"> 1747 </a>
+</td>
+<td><a href="/wiki/1748_%D0%B3%D0%BE%D0%B4" title="1748 год"> 1748 </a>
+</td>
+<td><a href="/wiki/1749_%D0%B3%D0%BE%D0%B4" title="1749 год"> 1749 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1750-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1750-е годы">1750-е</a></span>
+</th>
+<td><a href="/wiki/1750_%D0%B3%D0%BE%D0%B4" title="1750 год"> 1750 </a>
+</td>
+<td><a href="/wiki/1751_%D0%B3%D0%BE%D0%B4" title="1751 год"> 1751 </a>
+</td>
+<td><a href="/wiki/1752_%D0%B3%D0%BE%D0%B4" title="1752 год"> 1752 </a>
+</td>
+<td><a href="/wiki/1753_%D0%B3%D0%BE%D0%B4" title="1753 год"> 1753 </a>
+</td>
+<td><a href="/wiki/1754_%D0%B3%D0%BE%D0%B4" title="1754 год"> 1754 </a>
+</td>
+<td><a href="/wiki/1755_%D0%B3%D0%BE%D0%B4" title="1755 год"> 1755 </a>
+</td>
+<td><a href="/wiki/1756_%D0%B3%D0%BE%D0%B4" title="1756 год"> 1756 </a>
+</td>
+<td><a href="/wiki/1757_%D0%B3%D0%BE%D0%B4" title="1757 год"> 1757 </a>
+</td>
+<td><a href="/wiki/1758_%D0%B3%D0%BE%D0%B4" title="1758 год"> 1758 </a>
+</td>
+<td><a href="/wiki/1759_%D0%B3%D0%BE%D0%B4" title="1759 год"> 1759 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1760-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1760-е годы">1760-е</a></span>
+</th>
+<td><a href="/wiki/1760_%D0%B3%D0%BE%D0%B4" title="1760 год"> 1760 </a>
+</td>
+<td><a href="/wiki/1761_%D0%B3%D0%BE%D0%B4" title="1761 год"> 1761 </a>
+</td>
+<td><a href="/wiki/1762_%D0%B3%D0%BE%D0%B4" title="1762 год"> 1762 </a>
+</td>
+<td><a href="/wiki/1763_%D0%B3%D0%BE%D0%B4" title="1763 год"> 1763 </a>
+</td>
+<td><a href="/wiki/1764_%D0%B3%D0%BE%D0%B4" title="1764 год"> 1764 </a>
+</td>
+<td><a href="/wiki/1765_%D0%B3%D0%BE%D0%B4" title="1765 год"> 1765 </a>
+</td>
+<td><a href="/wiki/1766_%D0%B3%D0%BE%D0%B4" title="1766 год"> 1766 </a>
+</td>
+<td><a href="/wiki/1767_%D0%B3%D0%BE%D0%B4" title="1767 год"> 1767 </a>
+</td>
+<td><a href="/wiki/1768_%D0%B3%D0%BE%D0%B4" title="1768 год"> 1768 </a>
+</td>
+<td><a href="/wiki/1769_%D0%B3%D0%BE%D0%B4" title="1769 год"> 1769 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1770-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1770-е годы">1770-е</a></span>
+</th>
+<td><a href="/wiki/1770_%D0%B3%D0%BE%D0%B4" title="1770 год"> 1770 </a>
+</td>
+<td><a href="/wiki/1771_%D0%B3%D0%BE%D0%B4" title="1771 год"> 1771 </a>
+</td>
+<td><a href="/wiki/1772_%D0%B3%D0%BE%D0%B4" title="1772 год"> 1772 </a>
+</td>
+<td><a href="/wiki/1773_%D0%B3%D0%BE%D0%B4" title="1773 год"> 1773 </a>
+</td>
+<td><a href="/wiki/1774_%D0%B3%D0%BE%D0%B4" title="1774 год"> 1774 </a>
+</td>
+<td><a href="/wiki/1775_%D0%B3%D0%BE%D0%B4" title="1775 год"> 1775 </a>
+</td>
+<td><a href="/wiki/1776_%D0%B3%D0%BE%D0%B4" title="1776 год"> 1776 </a>
+</td>
+<td><a href="/wiki/1777_%D0%B3%D0%BE%D0%B4" title="1777 год"> 1777 </a>
+</td>
+<td><a href="/wiki/1778_%D0%B3%D0%BE%D0%B4" title="1778 год"> 1778 </a>
+</td>
+<td><a href="/wiki/1779_%D0%B3%D0%BE%D0%B4" title="1779 год"> 1779 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1780-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1780-е годы">1780-е</a></span>
+</th>
+<td><a href="/wiki/1780_%D0%B3%D0%BE%D0%B4" title="1780 год"> 1780 </a>
+</td>
+<td><a href="/wiki/1781_%D0%B3%D0%BE%D0%B4" title="1781 год"> 1781 </a>
+</td>
+<td><a href="/wiki/1782_%D0%B3%D0%BE%D0%B4" title="1782 год"> 1782 </a>
+</td>
+<td><a href="/wiki/1783_%D0%B3%D0%BE%D0%B4" title="1783 год"> 1783 </a>
+</td>
+<td><a href="/wiki/1784_%D0%B3%D0%BE%D0%B4" title="1784 год"> 1784 </a>
+</td>
+<td><a href="/wiki/1785_%D0%B3%D0%BE%D0%B4" title="1785 год"> 1785 </a>
+</td>
+<td><a href="/wiki/1786_%D0%B3%D0%BE%D0%B4" title="1786 год"> 1786 </a>
+</td>
+<td><a href="/wiki/1787_%D0%B3%D0%BE%D0%B4" title="1787 год"> 1787 </a>
+</td>
+<td><a href="/wiki/1788_%D0%B3%D0%BE%D0%B4" title="1788 год"> 1788 </a>
+</td>
+<td><a href="/wiki/1789_%D0%B3%D0%BE%D0%B4" title="1789 год"> 1789 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1790-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1790-е годы">1790-е</a></span>
+</th>
+<td><a href="/wiki/1790_%D0%B3%D0%BE%D0%B4" title="1790 год"> 1790 </a>
+</td>
+<td><a href="/wiki/1791_%D0%B3%D0%BE%D0%B4" title="1791 год"> 1791 </a>
+</td>
+<td><a href="/wiki/1792_%D0%B3%D0%BE%D0%B4" title="1792 год"> 1792 </a>
+</td>
+<td><a href="/wiki/1793_%D0%B3%D0%BE%D0%B4" title="1793 год"> 1793 </a>
+</td>
+<td><a href="/wiki/1794_%D0%B3%D0%BE%D0%B4" title="1794 год"> 1794 </a>
+</td>
+<td><a href="/wiki/1795_%D0%B3%D0%BE%D0%B4" title="1795 год"> 1795 </a>
+</td>
+<td><a href="/wiki/1796_%D0%B3%D0%BE%D0%B4" title="1796 год"> 1796 </a>
+</td>
+<td><a href="/wiki/1797_%D0%B3%D0%BE%D0%B4" title="1797 год"> 1797 </a>
+</td>
+<td><a href="/wiki/1798_%D0%B3%D0%BE%D0%B4" title="1798 год"> 1798 </a>
+</td>
+<td><a href="/wiki/1799_%D0%B3%D0%BE%D0%B4" title="1799 год"> 1799 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1800-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1800-е годы">1800-е</a></span>
+</th>
+<td><a href="/wiki/1800_%D0%B3%D0%BE%D0%B4" title="1800 год"> 1800 </a>
+</td>
+<td><a href="/wiki/1801_%D0%B3%D0%BE%D0%B4" title="1801 год"> 1801 </a>
+</td>
+<td><a href="/wiki/1802_%D0%B3%D0%BE%D0%B4" title="1802 год"> 1802 </a>
+</td>
+<td><a href="/wiki/1803_%D0%B3%D0%BE%D0%B4" title="1803 год"> 1803 </a>
+</td>
+<td><a href="/wiki/1804_%D0%B3%D0%BE%D0%B4" title="1804 год"> 1804 </a>
+</td>
+<td><a href="/wiki/1805_%D0%B3%D0%BE%D0%B4" title="1805 год"> 1805 </a>
+</td>
+<td><a href="/wiki/1806_%D0%B3%D0%BE%D0%B4" title="1806 год"> 1806 </a>
+</td>
+<td><a href="/wiki/1807_%D0%B3%D0%BE%D0%B4" title="1807 год"> 1807 </a>
+</td>
+<td><a href="/wiki/1808_%D0%B3%D0%BE%D0%B4" title="1808 год"> 1808 </a>
+</td>
+<td><a href="/wiki/1809_%D0%B3%D0%BE%D0%B4" title="1809 год"> 1809 </a>
+</td></tr></tbody></table>
+<div style="text-align:right"><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0" title="Хронологическая таблица">Хронологическая таблица</a></div>
+</div>
+<table class="infobox" data-name="Год в других календарях">
+<tbody><tr>
+<th scope="colgroup" colspan="2" class="infobox-header" style="background:transparent">1721 (ты́сяча&#160;семьсо́т&#160;два́дцать&#160;пе́рвый) год в различных календарях
+</th></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">Григорианский календарь</a>
+</th>
+<td style="padding: 0.4em 1em 0.4em 0;"><a class="mw-selflink selflink">1721</a> <br /> <i>MDCCXXI</i>
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Юлианский календарь">Юлианский календарь</a>
+</th>
+<td scope="row" style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1720—1721 (с <a href="/wiki/12_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="12 января">12 января</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Юлианский календарь">Юлианский календарь</a><br /> <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%80%D0%B0" title="Константинопольская эра">с византийской эрой</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">7229—7230 (с <a href="/wiki/12_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="12 сентября">12 сентября</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/Ab_Urbe_condita" title="Ab Urbe condita">От основания Рима</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">2473—2474 (со <a href="/wiki/2_%D0%BC%D0%B0%D1%8F" title="2 мая">2 мая</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Еврейский календарь">Еврейский календарь</a><br />
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">5481—5482 <br />
+<p>ה'תפ"א
+&#160;—&#160;ה'תפ"ב
+</p>
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Исламский календарь">Исламский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1133—1134
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B0%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Древнеармянский календарь">Древнеармянский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">4213—4214 (с <a href="/wiki/22_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="22 августа">22 августа</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Армянский церковный календарь">Армянский церковный календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1170 <br /> <i>ԹՎ ՌՃՀ</i>
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Китайский календарь">Китайский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">4417—4418  <br /> <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B3%D0%B0%D0%BD%D1%8C-%D1%87%D0%B6%D0%B8" title="Система гань-чжи">庚子&#160;— 辛丑<br />белая крыса&#160;— белый бык</a>
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%AD%D1%84%D0%B8%D0%BE%D0%BF%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Эфиопский календарь">Эфиопский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1713&#160;— 1714
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0;"><a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B8%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Древнеиндийский календарь">Древнеиндийский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0;">
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; padding: 0 1em 0 0;">&#8259; <i><a href="/wiki/%D0%92%D0%B8%D0%BA%D1%80%D0%B0%D0%BC-%D1%81%D0%B0%D0%BC%D0%B2%D0%B0%D1%82" title="Викрам-самват">Викрам-самват</a></i>
+</th>
+<td style="padding: 0 1em 0 0;">1777—1778
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; padding: 0 1em 0 0;">&#8259; <i><a href="/wiki/%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%80%D0%B0" title="Сакская эра">Шака самват</a></i>
+</th>
+<td style="padding: 0 1em 0 0;">1642—1643
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; padding: 0 1em 0.4em 0;">&#8259; <i><a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8-%D1%8E%D0%B3%D0%B0" title="Кали-юга">Кали-юга</a></i>
+</th>
+<td style="padding: 0 1em 0.4em 0;">4822—4823
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%98%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Иранский календарь">Иранский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1099—1100
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%91%D1%83%D0%B4%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Буддийский календарь">Буддийский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">2264
+</td></tr>
+<tr style="vertical-align:top">
+<th scope="row" style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D1%86%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%8D%D1%80%D0%B0" title="Голоценовая эра">Голоценовый календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">11721
+<p><br />
+</p><p><br />
+</p>
+</td></tr></tbody></table>
+<p><b>1721</b> (<b>ты́сяча&#160;семьсо́т&#160;два́дцать&#160;пе́рвый</b>) <b>год </b> по <a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">григорианскому календарю</a>&#160;— <a href="/wiki/%D0%9D%D0%B5%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4" title="Невисокосный год">невисокосный год</a>, начинающийся в <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0" title="Среда">среду</a>. Это 1721&#160;год <a href="/wiki/%D0%9D%D0%B0%D1%88%D0%B0_%D1%8D%D1%80%D0%B0" title="Наша эра">нашей эры</a>, 1&#x2011;й&#160;год 3&#x2011;го десятилетия <a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII&#160;века</a> <a href="/wiki/2-%D0%B5_%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D0%B5" title="2-е тысячелетие">2&#x2011;го тысячелетия</a>, 2&#x2011;й&#160;год <a href="/wiki/1720-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1720-е годы">1720&#x2011;х годов</a>. Он закончился 305&#160;лет&#32;назад.
+<style data-mw-deduplicate="TemplateStyles:r148497913">.mw-parser-output .ts-Кнопка-справа caption .mw-collapsible-toggle.mw-collapsible-toggle,.mw-parser-output .mw-content-ltr .ts-Кнопка-справа caption .mw-collapsible-toggle.mw-collapsible-toggle{float:right}</style>
+</p>
+<table class="ts-Кнопка-справа mw-collapsible standard mw-collapsed" style="width:35em;border-bottom:0">
+<caption style="background:var(--ruwiki-background-color-blue200,#cfe3ff);color:inherit;border:1px solid var(--border-color-base,#a2a9b1);border-bottom:0;text-align:center"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">Календарь</a> на 1721  год
+</caption>
+<tbody><tr>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Январь
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">4
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">5
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">11
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">12
+</td></tr>
+<tr>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">18
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">19
+</td></tr>
+<tr>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">25
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">26
+</td></tr>
+<tr>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Февраль
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">1
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">2
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">8
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">9
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">15
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">16
+</td></tr>
+<tr>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">22
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">23
+</td></tr>
+<tr>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Март
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">1
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">2
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">8
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">9
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">15
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">16
+</td></tr>
+<tr>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">22
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">23
+</td></tr>
+<tr>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">29
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">30
+</td></tr>
+<tr>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Апрель
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">5
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">6
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">12
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">13
+</td></tr>
+<tr>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">19
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">20
+</td></tr>
+<tr>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">26
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">27
+</td></tr>
+<tr>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Май
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">3
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">4
+</td></tr>
+<tr>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">10
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">11
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">17
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">18
+</td></tr>
+<tr>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">24
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">25
+</td></tr>
+<tr>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">31
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Июнь
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">1
+</td></tr>
+<tr>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">7
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">8
+</td></tr>
+<tr>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">14
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">15
+</td></tr>
+<tr>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">21
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">22
+</td></tr>
+<tr>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">28
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">29
+</td></tr>
+<tr>
+<td>30
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Июль
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">5
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">6
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">12
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">13
+</td></tr>
+<tr>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">19
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">20
+</td></tr>
+<tr>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">26
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">27
+</td></tr>
+<tr>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Август
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">2
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">3
+</td></tr>
+<tr>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">9
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">10
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">16
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">17
+</td></tr>
+<tr>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">23
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">24
+</td></tr>
+<tr>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">30
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">31
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Сентябрь
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">6
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">7
+</td></tr>
+<tr>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">13
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">14
+</td></tr>
+<tr>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">20
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">21
+</td></tr>
+<tr>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">27
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">28
+</td></tr>
+<tr>
+<td>29
+</td>
+<td>30
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Октябрь
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">4
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">5
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">11
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">12
+</td></tr>
+<tr>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">18
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">19
+</td></tr>
+<tr>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">25
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">26
+</td></tr>
+<tr>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Ноябрь
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">1
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">2
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">8
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">9
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">15
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">16
+</td></tr>
+<tr>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">22
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">23
+</td></tr>
+<tr>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">29
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">30
+</td></tr></tbody></table>
+</td>
+<td style="vertical-align:top;text-align:center;">
+<table style="margin-left:auto;margin-right:auto;">
+<caption>Декабрь
+</caption>
+<tbody><tr>
+<th scope="col" style="font-weight:normal;">Пн
+</th>
+<th scope="col" style="font-weight:normal;">Вт
+</th>
+<th scope="col" style="font-weight:normal;">Ср
+</th>
+<th scope="col" style="font-weight:normal;">Чт
+</th>
+<th scope="col" style="font-weight:normal;">Пт
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Сб
+</th>
+<th scope="col" style="font-weight:normal; color:var(--color-destructive, #bf3c2c);">Вс
+</th></tr>
+<tr>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">6
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">7
+</td></tr>
+<tr>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">13
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">14
+</td></tr>
+<tr>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">20
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">21
+</td></tr>
+<tr>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">27
+</td>
+<td style="color:var(--color-destructive, #bf3c2c);">28
+</td></tr>
+<tr>
+<td>29
+</td>
+<td>30
+</td>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#События"><span class="tocnumber">1</span> <span class="toctext">События</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Российская_империя"><span class="tocnumber">2</span> <span class="toctext">Российская империя</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Начало_правления"><span class="tocnumber">3</span> <span class="toctext">Начало правления</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Наука"><span class="tocnumber">4</span> <span class="toctext">Наука</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Музыка"><span class="tocnumber">5</span> <span class="toctext">Музыка</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Родились"><span class="tocnumber">7</span> <span class="toctext">Родились</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Скончались"><span class="tocnumber">8</span> <span class="toctext">Скончались</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#См._также"><span class="tocnumber">9</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="События"><span id=".D0.A1.D0.BE.D0.B1.D1.8B.D1.82.D0.B8.D1.8F"></span>События</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=1" title="Редактировать раздел «События»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=1" title="Редактировать код раздела «События»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/1707_%D0%B3%D0%BE%D0%B4" title="1707 год">1707</a>—<a href="/wiki/1723_%D0%B3%D0%BE%D0%B4" title="1723 год">1723</a> — <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B8%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%94%D0%B0%D0%B3%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%B5_%D0%B8_%D0%A8%D0%B8%D1%80%D0%B2%D0%B0%D0%BD%D0%B5_(1707%E2%80%941723)" title="Антииранские восстания в Дагестане и Ширване (1707—1723)">Антииранские восстания в Дагестане и Ширване</a>. Ряд восстаний на территории <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%B5%D1%81%D1%82%D0%B0%D0%BD" title="Дагестан">Дагестана</a> против <a href="/wiki/%D0%A1%D0%B5%D1%84%D0%B5%D0%B2%D0%B8%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Сефевидское государство">империи</a> <a href="/wiki/%D0%A1%D0%BE%D0%BB%D1%82%D0%B0%D0%BD_%D0%A5%D1%83%D1%81%D0%B5%D0%B9%D0%BD" title="Солтан Хусейн">султана Хусейна</a><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/1712_%D0%B3%D0%BE%D0%B4" title="1712 год">1712</a>—<a href="/wiki/1733_%D0%B3%D0%BE%D0%B4" title="1733 год">1733</a> — <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D1%8B_%D1%84%D0%BE%D0%BA%D1%81%D0%BE%D0%B2" title="Войны фоксов">Война фоксов</a>. Два вооружённых конфликта между <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Новая Франция">Новой Францией</a> и индейским племенем <a href="/wiki/%D0%A4%D0%BE%D0%BA%D1%81%D1%8B" title="Фоксы">фоксы</a>, произошедшие в районе <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B5_%D0%BE%D0%B7%D1%91%D1%80%D0%B0" title="Великие озёра">Великих озёр</a><sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/1715_%D0%B3%D0%BE%D0%B4" title="1715 год">1715</a>—<a href="/wiki/1739_%D0%B3%D0%BE%D0%B4" title="1739 год">1739</a> — <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BE%D0%B9%D1%80%D0%B0%D1%82%D0%BE-%D0%BC%D0%B0%D0%BD%D1%8C%D1%87%D0%B6%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая ойрато-маньчжурская война">Вторая ойрато-маньчжурская война</a>, между <a href="/wiki/%D0%9E%D0%B9%D1%80%D0%B0%D1%82%D1%8B" title="Ойраты">ойратским</a> <a href="/wiki/%D0%94%D0%B6%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Джунгарское ханство">Джунгарским ханством</a> и маньчжурской империей <a href="/wiki/%D0%A6%D0%B8%D0%BD" class="mw-redirect" title="Цин">Цин</a> за гегемонию в степях <a href="/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Восточная Азия">Восточной Азии</a><sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>1716—<a href="/wiki/1731_%D0%B3%D0%BE%D0%B4" title="1731 год">1731</a> — <a href="/wiki/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D1%82%D1%87%D0%B5%D0%B7%D0%BE%D0%B2" title="Восстание натчезов">Восстание натчезов</a>. Серия вооружённых конфликтов между <a href="/wiki/%D0%9D%D0%B0%D1%82%D1%87%D0%B5%D0%B7%D1%8B" title="Натчезы">натчезами</a> и <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%9B%D1%83%D0%B8%D0%B7%D0%B8%D0%B0%D0%BD%D0%B0" title="Французская Луизиана">французской колонией Луизиана</a>, произошедшая в основном на территории современного <a href="/wiki/%D0%A8%D1%82%D0%B0%D1%82_%D0%A1%D0%A8%D0%90" title="Штат США">американского штата</a> <a href="/wiki/%D0%9C%D0%B8%D1%81%D1%81%D0%B8%D1%81%D0%B8%D0%BF%D0%B8_(%D1%88%D1%82%D0%B0%D1%82)" title="Миссисипи (штат)">Миссисипи</a><sup id="cite&#95;ref-автоссылка1&#95;4-0" class="reference"><a href="#cite_note-автоссылка1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>1718—<a href="/wiki/1743_%D0%B3%D0%BE%D0%B4" title="1743 год">1743</a> — <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%9E%D0%BC%D0%B0%D0%BD%D0%B5_(1718%E2%80%941743)" title="Гражданская война в Омане (1718—1743)">гражданская война в Омане</a><sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>1720—<a href="/wiki/1725_%D0%B3%D0%BE%D0%B4" title="1725 год">1725</a> — <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D1%87%D0%B8%D0%BA%D0%B0%D1%81%D0%BE" title="Первая война чикасо">Первая война чикасо</a>. Вооружённый конфликт между индейским племенем <a href="/wiki/%D0%A7%D0%B8%D0%BA%D0%B0%D1%81%D0%BE_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Чикасо (народ)">чикасо</a> с одной стороны, и французской колонией <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%9B%D1%83%D0%B8%D0%B7%D0%B8%D0%B0%D0%BD%D0%B0" title="Французская Луизиана">Луизиана</a> и племенем <a href="/wiki/%D0%A7%D0%BE%D0%BA%D1%82%D0%BE_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Чокто (народ)">чокто</a> с другой (см. 1720—<a href="/wiki/1763_%D0%B3%D0%BE%D0%B4" title="1763 год">1763</a> — <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D1%8B_%D1%87%D0%B8%D0%BA%D0%B0%D1%81%D0%BE" title="Войны чикасо">Войны чикасо</a>)<sup id="cite&#95;ref-автоссылка1&#95;4-1" class="reference"><a href="#cite_note-автоссылка1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>1721—<a href="/wiki/1725_%D0%B3%D0%BE%D0%B4" title="1725 год">1725</a>&#160;— восстание индейцев в <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9" title="Парагвай">Парагвае</a>.</li>
+<li>1721—1726&#160;— законы <a href="/wiki/%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3%D0%B8" title="Габсбурги">Габсбургов</a> против <a href="/wiki/%D0%95%D1%80%D0%B5%D1%81%D1%8C" title="Ересь">еретиков</a>.</li>
+<li>1721, 1726&#160;— законы в Англии поручали регулирование ставок заработной платы <a href="/wiki/%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%83%D0%B4%D1%8C%D1%8F" title="Мировой судья">мировым судьям</a>.</li>
+<li>Возникновение первой <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B6%D0%B0" title="Масонская ложа">масонской ложи</a> в <a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">Бельгии</a>.</li>
+<li><a href="/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8-%D0%94%D0%B0%D0%B2%D1%83%D0%B4" title="Хаджи-Давуд">Хаджи-Давуд</a> вновь поднял восстание и вместе с <a href="/wiki/%D0%A1%D1%83%D1%80%D1%85%D0%B0%D0%B9_%D0%B8%D0%B1%D0%BD_%D0%93%D0%B0%D1%80%D0%B0%D0%B9-%D0%B1%D0%B5%D0%BA" title="Сурхай ибн Гарай-бек">Сурхай-ханом</a>, правителем <a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B8%D0%BA%D1%83%D0%BC%D1%83%D1%85%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Казикумухское ханство">Казикума</a>, начал борьбу против <a href="/wiki/%D0%A8%D0%B8%D0%B8%D1%82%D1%8B" title="Шииты">шиитов</a>. <a href="/wiki/%D0%A1%D1%83%D0%BD%D0%BD%D0%B8%D1%82%D1%8B" title="Сунниты">Сунниты</a> уничтожили Шаберан, разорили <a href="/wiki/%D0%A8%D0%B5%D0%BC%D0%B0%D1%85%D1%8B" title="Шемахы">Шемаху</a>. Иранские войска укрылись в Баку и <a href="/wiki/%D0%93%D1%8F%D0%BD%D0%B4%D0%B6%D0%B0" title="Гянджа">Гяндже</a>.</li>
+<li>Восстание крестьян на <a href="/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)" title="Тайвань (остров)">Тайване</a>. Их вождь <a href="/w/index.php?title=%D0%A7%D0%B6%D1%83_%D0%98%D0%B3%D1%83%D0%B0%D0%BD%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Чжу Игуань (страница отсутствует)">Чжу Игуань</a> стал главой правительства острова. Цинские чиновники бежали на континент, но вернулись с войсками, восстановившими положение.</li>
+<li>Указ сёгуна <a href="/wiki/%D0%A2%D0%BE%D0%BA%D1%83%D0%B3%D0%B0%D0%B2%D0%B0_%D0%81%D1%81%D0%B8%D0%BC%D1%83%D0%BD%D1%8D" title="Токугава Ёсимунэ">Ёсимунэ</a>. Значительно облегчено участие городского торгово-ростовщического капитала в обработке нови.</li>
+<li>Сёгун Ёсимунэ разрешил ввоз некоторого количества европейских книг по естественным и прикладным знаниям.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Российская_империя"><span id=".D0.A0.D0.BE.D1.81.D1.81.D0.B8.D0.B9.D1.81.D0.BA.D0.B0.D1.8F_.D0.B8.D0.BC.D0.BF.D0.B5.D1.80.D0.B8.D1.8F"></span><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a></h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Российская империя»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=2" title="Редактировать код раздела «Российская империя»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Монархия">Царствование</a>: <a href="/wiki/1682_%D0%B3%D0%BE%D0%B4" title="1682 год">1682</a>—<a href="/wiki/1725_%D0%B3%D0%BE%D0%B4" title="1725 год">1725</a> — <a href="/wiki/%D0%9F%D1%91%D1%82%D1%80_I" title="Пётр I">Пётр I Алексеевич</a></i>
+</p>
+<ul><li>1700—1721&#160;— <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Северная война">Северная война</a><sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>:
+<ul><li>Апрель&#160;— начало мирного конгресса в <a href="/wiki/%D0%A3%D1%83%D1%81%D0%B8%D0%BA%D0%B0%D1%83%D0%BF%D1%83%D0%BD%D0%BA%D0%B8" title="Уусикаупунки">Ништадте</a> (Финляндия).</li>
+<li><a href="/wiki/30_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="30 августа">30 августа</a> (<a href="/wiki/10_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="10 сентября">10 сентября</a>)&#160;— заключён <a href="/wiki/%D0%9D%D0%B8%D1%88%D1%82%D0%B0%D0%B4%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80" title="Ништадтский мирный договор">Ништадтский мирный договор</a> между Россией и Швецией. К России переходили <a href="/wiki/%D0%98%D0%BD%D0%B3%D1%80%D0%B8%D1%8F_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)" class="mw-redirect" title="Ингрия (Россия)">Ингрия</a>, часть <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D1%8F" class="mw-redirect" title="Республика Карелия">Карелии</a>, <a href="/wiki/%D0%AD%D1%81%D1%82%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Эстляндия">Эстляндия</a>, <a href="/wiki/%D0%9B%D0%B8%D1%84%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" class="mw-redirect" title="Лифляндия">Лифляндия</a> с островами <a href="/wiki/%D0%A1%D0%B0%D0%B0%D1%80%D0%B5%D0%BC%D0%B0%D0%B0" title="Сааремаа">Эзелем</a>, <a href="/wiki/%D0%A5%D0%B8%D0%B9%D1%83%D0%BC%D0%B0%D0%B0" title="Хийумаа">Даго</a> и <a href="/wiki/%D0%9C%D1%83%D1%85%D1%83" title="Муху">Мооном</a>. Россия уплачивала 2&#160;млн <a href="/wiki/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%BA" title="Ефимок">ефимков</a> и отказывалась от поддержки голштинского герцога, претендента на шведский престол<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>19 (<a href="/wiki/30_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="30 сентября">30 сентября</a>)&#160;— в Ништадте состоялся обмен <a href="/wiki/%D0%A0%D0%B0%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Ратификация">ратификационными грамотами</a> между Россией и Швецией.</li>
+<li>Торжества по случаю подписания Ништадского мира прошли в Санкт-Петербурге, Москве и по инициативе Петра I организованы для специально приглашённых лиц в дипломатических представительствах России во многих европейских городах и Константинополе (<a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB" title="Стамбул">Стамбуле</a>).</li></ul></li>
+<li><a href="/wiki/16_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="16 января">16 января</a>&#160;— принят «Регламент, или Устав <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82" title="Главный магистрат">Главного магистрата</a>», разделивший городских жителей на «регулярных граждан» (входящих в <a href="/wiki/%D0%9A%D1%83%D0%BF%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BB%D1%8C%D0%B4%D0%B8%D1%8F" title="Купеческая гильдия">гильдии</a> и цеха) и «подлых» (наёмных).</li>
+<li><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="по юлианскому календарю">25&#160;января</span> (<a href="/wiki/5_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="5 февраля">5&#160;февраля</a>)&#160;— ликвидация <a href="/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%BE" class="mw-redirect" title="Патриаршество">патриаршества</a> в России. <a href="/wiki/%D0%94%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F" class="mw-redirect" title="Духовная коллегия">Учреждение духовной коллегии</a>, преобразованной с <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="по юлианскому календарю">14</span>&#160;<a href="/wiki/25_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="25 февраля">(25)&#160;февраля</a> в <a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B9_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%A1%D0%B8%D0%BD%D0%BE%D0%B4" class="mw-redirect" title="Святейший Правительствующий Синод">Святейший Правительствующий Синод</a>.</li>
+<li>Экспедицией под руководством <a href="/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BD,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Капустин, Григорий Григорьевич">Григория Григорьевича Капустина</a> открыт <a href="/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD" class="mw-redirect" title="Донецкий каменноугольный бассейн">Донецкий каменноугольный бассейн</a>.</li>
+<li><a href="/wiki/2_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="2 ноября">2 ноября</a>&#160;— Пётр I объявлен «<a href="/wiki/%D0%9E%D1%82%D0%B5%D1%86_%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Отец отечества">Отцом отечества</a> и Императором Всероссийским», Россия стала <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">империей</a>.</li>
+<li>В <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербурге</a> на <a href="/wiki/%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82" title="Невский проспект">Невском проспекте</a> построен новый <a href="/wiki/%D0%90%D0%BD%D0%B8%D1%87%D0%BA%D0%BE%D0%B2_%D0%BC%D0%BE%D1%81%D1%82" title="Аничков мост">Аничков мост</a>&#160;— деревянный восемнадцати пролётный мост, в середине имеется разводной пролёт. Автор проекта <a href="/wiki/%D0%A2%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%B8,_%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE" title="Трезини, Доменико">Доменико Трезини</a>, строительство вёл голландский мастер <a href="/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%81,_%D0%A5%D0%B0%D1%80%D0%BC%D0%B0%D0%BD_%D0%B2%D0%B0%D0%BD" title="Болос, Харман ван">Х. ван Болос</a>.</li>
+<li>Президентом <a href="/wiki/%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7" title="Аптекарский приказ">Медицинской канцелярии</a> стал <a href="/wiki/%D0%91%D0%BB%D1%8E%D0%BC%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D1%81%D1%82,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Блюментрост, Иван Лаврентьевич">И.&#160;Л.&#160;Блюментрост</a>.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Начало_правления"><span id=".D0.9D.D0.B0.D1.87.D0.B0.D0.BB.D0.BE_.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F"></span>Начало правления</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Начало правления»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=3" title="Редактировать код раздела «Начало правления»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>См. также: <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BB%D0%B0%D0%B2_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2_%D0%B2_1721_%D0%B3%D0%BE%D0%B4%D1%83" title="Список глав государств в 1721 году">Список глав государств в 1721 году</a></i>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Наука"><span id=".D0.9D.D0.B0.D1.83.D0.BA.D0.B0"></span>Наука</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Наука»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=4" title="Редактировать код раздела «Наука»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div role="note" class="hatnote navigation-not-searchable ts-main"><style data-mw-deduplicate="TemplateStyles:r142002967">.mw-parser-output .ts-main a{font-weight:bold}.mw-parser-output .ts-main a.new,.mw-parser-output .ts-main a.extiw,.mw-parser-output .ts-main a.external{font-weight:normal}</style>Основная статья: <a href="/wiki/1721_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1721 год в науке">1721 год в науке</a></div>
+<div class="mw-heading mw-heading2"><h2 id="Музыка"><span id=".D0.9C.D1.83.D0.B7.D1.8B.D0.BA.D0.B0"></span>Музыка</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Музыка»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=5" title="Редактировать код раздела «Музыка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div role="note" class="hatnote navigation-not-searchable ts-main"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r142002967" />Основная статья: <a href="/wiki/1721_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5" title="1721 год в музыке">1721 год в музыке</a></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=6" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div role="note" class="hatnote navigation-not-searchable ts-main"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r142002967" />Основная статья: <a href="/wiki/1721_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B5" title="1721 год в литературе">1721 год в литературе</a></div>
+<div class="mw-heading mw-heading2"><h2 id="Родились"><span id=".D0.A0.D0.BE.D0.B4.D0.B8.D0.BB.D0.B8.D1.81.D1.8C"></span>Родились</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Родились»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=7" title="Редактировать код раздела «Родились»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>См. также: <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1721_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1721 году">Категория:Родившиеся в 1721&#160;году</a></i>
+</p>
+<ul><li><a href="/wiki/3_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="3 февраля">3 февраля</a>&#160;— <a href="/wiki/%D0%97%D0%B5%D0%B9%D0%B4%D0%BB%D0%B8%D1%86,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC" class="mw-redirect" title="Зейдлиц, Фридрих Вильгельм">Фридрих Вильгельм фон Зейдлиц</a>, <a href="/wiki/%D0%9F%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F" title="Пруссия">прусский</a> <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB_%D0%BE%D1%82_%D0%BA%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B8" title="Генерал от кавалерии">генерал от кавалерии</a>, участник <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B7%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE" class="mw-redirect" title="Война за Австрийское наследство">войны за Австрийское наследство</a> и <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Семилетняя война">Семилетней войны</a> (ум.<a href="/wiki/1773_%D0%B3%D0%BE%D0%B4" title="1773 год">1773</a>)</li>
+<li><a href="/wiki/6_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="6 февраля">6 февраля</a>&#160;— <a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%BD%D0%B5%D0%BA%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85" title="Хейнекен, Кристиан Фридрих">Хейнекен, Кристиан Фридрих</a>, «<a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%BD%D0%B5%D0%BA%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85" title="Хейнекен, Кристиан Фридрих">младенец из Любека</a>»</li>
+<li><a href="/wiki/27_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="27 декабря">27 декабря</a>&#160;— <a href="/wiki/%D0%A5%D0%B5%D0%BC%D1%81%D1%82%D0%B5%D1%80%D1%85%D0%B5%D0%B9%D1%81,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81" title="Хемстерхейс, Франс">Франц Хемстерхейс</a>, нидерландский просветитель, философ-платоник.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Скончались"><span id=".D0.A1.D0.BA.D0.BE.D0.BD.D1.87.D0.B0.D0.BB.D0.B8.D1.81.D1.8C"></span>Скончались</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Скончались»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=8" title="Редактировать код раздела «Скончались»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>См. также: <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1721_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1721 году">Категория:Умершие в 1721&#160;году</a></i>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=9" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=9" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r137903846">.mw-parser-output .ts-Родственные_проекты{clear:right;float:right;width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{clear:none;float:none;width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные&#95;проекты ruwikiWikimediaNavigation metadata plainlinks plainlist noprint" role="navigation" aria-labelledby="В&#95;родственных&#95;проектах"><div class="ts-Родственные&#95;проекты-header" id="В&#95;родственных&#95;проектах"><b>В родственных проектах</b></div><ul><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/40px-Notification-icon-Wikisource-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/60px-Notification-icon-Wikisource-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label wikisource-ref"><a href="https://ru.wikisource.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_1721_%D0%B3%D0%BE%D0%B4%D0%B0" class="extiw" title="s:Категория:Документы 1721 года">Тексты в&#160;Викитеке</a></span></li><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/40px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/60px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:1721" class="extiw" title="commons:Category:1721">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<div class="CategoryTreeTag" data-ct-options="{&quot;mode&quot;:10,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a class="CategoryTreeToggle" data-ct-title="1721_год" aria-expanded="false"></a> </span> <bdi dir="ltr"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1721_%D0%B3%D0%BE%D0%B4" title="Категория:1721 год">1721 год</a></bdi></div><div class="CategoryTreeChildren" style="display:none"></div></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=10" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Bournoutian, George A.</i> A Brief History of the Aghuankʻ Region, by Esayi Hasan Jalaleantsʻ. — Mazda Publishers, 2009. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9781568591711" class="internal mw-magiclink-isbn">ISBN 978-1568591711</a>.</span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Эдмундс, Р. Дэвид; Пейзер, Джозеф Л.</i> Войны фоксов: Мескуаки бросают вызов Новой Франции (рус.). — <abbr title="Санкт-Петербург">СПб.</abbr>: «Первые Американцы», 2020. — 432 с.</span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%BA%D0%B8%D0%BD,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87" title="Златкин, Илья Яковлевич"><i>Златкин И. Я.</i></a> «История Джунгарского ханства», Москва 1964.</span>
+</li>
+<li id="cite&#95;note-автоссылка1-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-автоссылка1_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-автоссылка1_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><i><a href="/wiki/%D0%97%D0%BE%D1%80%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Зорин, Александр Васильевич">Зорин, Александр</a>.</i> Воины великой реки: индейские войны Французской Луизианы (рус.). — <abbr title="Санкт-Петербург">СПб.</abbr>: «Первые Американцы», 2014. — 408 с.</span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/%D0%9B%D0%BE%D0%BA%D1%85%D0%B0%D1%80%D1%82,_%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81" title="Локхарт, Лоуренс">Локхарт, Лоуренс</a>, «Nadir Shah’s Campaings in Oman, 1737—1744», Bulletin of the School of Oriental and African Studies, vol. VIII, 1936.</span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Северная война 1700—1721.//Большая российская энциклопедия: [в 35 т.]/гл. ред. Ю.&#160;С.&#160;Осипов.&#160;— М,&#160;: Большая российская энциклопедия 2004—2017. </span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Большая Советская Энциклопедия. Гл. ред. Б. А. Введенский, 2-е изд. Т. 30. Николаев — Олонки. 1954. 656 стр</span>
+</li>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r148513636">.mw-parser-output .ambox{align-items:center;border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;display:flex;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><div class="mbox-Нет&#95;источников plainlinks metadata ambox ambox-content"><div class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/60px-Question_book-4.svg.png" decoding="async" width="48" height="37" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/120px-Question_book-4.svg.png 1.5x" data-file-width="262" data-file-height="204" /></span></span></div></div><div class="mbox-text"><div class="mbox-text-div">В статье <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылок на источники</a></b> (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Поиск источников">рекомендации по поиску</a>).</div><div class="mbox-textsmall-div hide-when-compact"><span class="hide-when-compact"> Информация должна быть <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">проверяема</a>, иначе она может быть удалена. Вы можете <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit">отредактировать</a> статью, добавив ссылки на <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">авторитетные источники</a> в виде <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a>.</span>  <span class="mbox-date"><i>(<span class="date">22 июня 2018</span>)</i></span></div></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐fk74b
+Cached time: 20260213173551
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.359 seconds
+Real time usage: 0.492 seconds
+Preprocessor visited node count: 5822/1000000
+Revision size: 11581/2097152 bytes
+Post‐expand include size: 122515/2097152 bytes
+Template argument size: 7343/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13716/5000000 bytes
+Lua time usage: 0.100/10.000 seconds
+Lua memory usage: 3113142/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  370.904      1 -total
+ 22.60%   83.811      1 Шаблон:Нет_источников
+ 21.09%   78.210      1 Шаблон:Родственные_проекты
+ 19.14%   70.978      1 Шаблон:Навигация_для_века
+ 16.31%   60.490      1 Шаблон:Ambox
+  9.56%   35.444      1 Шаблон:Год_начинающийся
+  9.53%   35.354      1 Шаблон:Десятилетия_и_годы_века
+  8.64%   32.028      1 Шаблон:Flatlist
+  8.42%   31.226      1 Шаблон:Год_в_других_календарях
+  7.36%   27.317     12 Шаблон:Десятилетие_и_годы
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:3833:|#|:idhash:canonical and timestamp 20260213173551 and revision id 150844092. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=1721_год&amp;oldid=150844092">https://ru.wikipedia.org/w/index.php?title=1721_год&amp;oldid=150844092</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1721_%D0%B3%D0%BE%D0%B4" title="Категория:1721 год">1721 год</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%81%D0%B5_%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Категория:Все хронологические списки">Все хронологические списки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D1%83_%D0%BD%D0%B5%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE_%D0%B2_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5" title="Категория:Википедия:Ссылка на Викитеку непосредственно в статье">Википедия:Ссылка на Викитеку непосредственно в статье</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D0%B8%D1%8E%D0%BD%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без ссылок на источники с июня 2018 года">Википедия:Статьи без ссылок на источники с июня 2018 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без источников (не распределённые по типам)">Википедия:Статьи без источников (не распределённые по типам)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=1721+%D0%B3%D0%BE%D0%B4" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=1721+%D0%B3%D0%BE%D0%B4" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/1721_%D0%B3%D0%BE%D0%B4" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:1721_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/1721_%D0%B3%D0%BE%D0%B4"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/1721_%D0%B3%D0%BE%D0%B4" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/1721_%D0%B3%D0%BE%D0%B4" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;oldid=150844092" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=1721_%D0%B3%D0%BE%D0%B4&amp;id=150844092&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F1721_%25D0%25B3%25D0%25BE%25D0%25B4"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F1721_%25D0%25B3%25D0%25BE%25D0%25B4"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=1721_%D0%B3%D0%BE%D0%B4&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:1721" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1721" hreflang="ru"><span>Викиновости</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6913" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ab mw-list-item"><a href="https://ab.wikipedia.org/wiki/1721" title="1721 — абхазский" lang="ab" hreflang="ab" data-title="1721" data-language-autonym="Аԥсшәа" data-language-local-name="абхазский" class="interlanguage-link-target"><span>Аԥсшәа</span></a></li><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/1721" title="1721 — африкаанс" lang="af" hreflang="af" data-title="1721" data-language-autonym="Afrikaans" data-language-local-name="африкаанс" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/1721" title="1721 — швейцарский немецкий" lang="gsw" hreflang="gsw" data-title="1721" data-language-autonym="Alemannisch" data-language-local-name="швейцарский немецкий" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/1721_%E1%8A%A5.%E1%8A%A4.%E1%8A%A0." title="1721 እ.ኤ.አ. — амхарский" lang="am" hreflang="am" data-title="1721 እ.ኤ.አ." data-language-autonym="አማርኛ" data-language-local-name="амхарский" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/1721" title="1721 — арагонский" lang="an" hreflang="an" data-title="1721" data-language-autonym="Aragonés" data-language-local-name="арагонский" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/1721" title="1721 — арабский" lang="ar" hreflang="ar" data-title="1721" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/1721" title="1721 — Egyptian Arabic" lang="arz" hreflang="arz" data-title="1721" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/1721" title="1721 — астурийский" lang="ast" hreflang="ast" data-title="1721" data-language-autonym="Asturianu" data-language-local-name="астурийский" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-avk mw-list-item"><a href="https://avk.wikipedia.org/wiki/1721" title="1721 — Kotava" lang="avk" hreflang="avk" data-title="1721" data-language-autonym="Kotava" data-language-local-name="Kotava" class="interlanguage-link-target"><span>Kotava</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/1721" title="1721 — азербайджанский" lang="az" hreflang="az" data-title="1721" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%DB%B1%DB%B7%DB%B2%DB%B1_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۷۲۱ (میلادی) — South Azerbaijani" lang="azb" hreflang="azb" data-title="۱۷۲۱ (میلادی)" data-language-autonym="تۆرکجه" data-language-local-name="South Azerbaijani" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/1721_%D0%B9%D1%8B%D0%BB" title="1721 йыл — башкирский" lang="ba" hreflang="ba" data-title="1721 йыл" data-language-autonym="Башҡортса" data-language-local-name="башкирский" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-ban mw-list-item"><a href="https://ban.wikipedia.org/wiki/1721" title="1721 — балийский" lang="ban" hreflang="ban" data-title="1721" data-language-autonym="Basa Bali" data-language-local-name="балийский" class="interlanguage-link-target"><span>Basa Bali</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/1721" title="1721 — Bavarian" lang="bar" hreflang="bar" data-title="1721" data-language-autonym="Boarisch" data-language-local-name="Bavarian" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/1721" title="1721 — Central Bikol" lang="bcl" hreflang="bcl" data-title="1721" data-language-autonym="Bikol Central" data-language-local-name="Central Bikol" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/1721" title="1721 — белорусский" lang="be" hreflang="be" data-title="1721" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/1721" title="1721 — белорусский (тарашкевица)" lang="be-tarask" hreflang="be-tarask" data-title="1721" data-language-autonym="Беларуская (тарашкевіца)" data-language-local-name="белорусский (тарашкевица)" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/1721" title="1721 — болгарский" lang="bg" hreflang="bg" data-title="1721" data-language-autonym="Български" data-language-local-name="болгарский" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A7%A7%E0%A7%AD%E0%A7%A8%E0%A7%A7" title="১৭২১ — бенгальский" lang="bn" hreflang="bn" data-title="১৭২১" data-language-autonym="বাংলা" data-language-local-name="бенгальский" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bo mw-list-item"><a href="https://bo.wikipedia.org/wiki/%E0%BC%A1%E0%BC%A7%E0%BC%A2%E0%BC%A1%E0%BD%A3%E0%BD%BC%E0%BC%8D" title="༡༧༢༡ལོ། — тибетский" lang="bo" hreflang="bo" data-title="༡༧༢༡ལོ།" data-language-autonym="བོད་ཡིག" data-language-local-name="тибетский" class="interlanguage-link-target"><span>བོད་ཡིག</span></a></li><li class="interlanguage-link interwiki-bpy mw-list-item"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AD%E0%A7%A8%E0%A7%A7" title="মারি ১৭২১ — Bishnupriya" lang="bpy" hreflang="bpy" data-title="মারি ১৭২১" data-language-autonym="বিষ্ণুপ্রিয়া মণিপুরী" data-language-local-name="Bishnupriya" class="interlanguage-link-target"><span>বিষ্ণুপ্রিয়া মণিপুরী</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/1721" title="1721 — бретонский" lang="br" hreflang="br" data-title="1721" data-language-autonym="Brezhoneg" data-language-local-name="бретонский" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/1721." title="1721. — боснийский" lang="bs" hreflang="bs" data-title="1721." data-language-autonym="Bosanski" data-language-local-name="боснийский" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/1721" title="1721 — каталанский" lang="ca" hreflang="ca" data-title="1721" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/1721_ni%C3%A8ng" title="1721 nièng — Mindong" lang="cdo" hreflang="cdo" data-title="1721 nièng" data-language-autonym="閩東語 / Mìng-dĕ̤ng-ngṳ̄" data-language-local-name="Mindong" class="interlanguage-link-target"><span>閩東語 / Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/1721" title="1721 — себуано" lang="ceb" hreflang="ceb" data-title="1721" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%A1%D9%A7%D9%A2%D9%A1" title="١٧٢١ — центральнокурдский" lang="ckb" hreflang="ckb" data-title="١٧٢١" data-language-autonym="کوردی" data-language-local-name="центральнокурдский" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-crh mw-list-item"><a href="https://crh.wikipedia.org/wiki/1721" title="1721 — крымско-татарский" lang="crh" hreflang="crh" data-title="1721" data-language-autonym="Qırımtatarca" data-language-local-name="крымско-татарский" class="interlanguage-link-target"><span>Qırımtatarca</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/1721" title="1721 — чешский" lang="cs" hreflang="cs" data-title="1721" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-csb mw-list-item"><a href="https://csb.wikipedia.org/wiki/1721" title="1721 — кашубский" lang="csb" hreflang="csb" data-title="1721" data-language-autonym="Kaszëbsczi" data-language-local-name="кашубский" class="interlanguage-link-target"><span>Kaszëbsczi</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/1721" title="1721 — чувашский" lang="cv" hreflang="cv" data-title="1721" data-language-autonym="Чӑвашла" data-language-local-name="чувашский" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/1721" title="1721 — валлийский" lang="cy" hreflang="cy" data-title="1721" data-language-autonym="Cymraeg" data-language-local-name="валлийский" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/1721" title="1721 — датский" lang="da" hreflang="da" data-title="1721" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/1721" title="1721 — немецкий" lang="de" hreflang="de" data-title="1721" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-diq mw-list-item"><a href="https://diq.wikipedia.org/wiki/1721" title="1721 — Dimli" lang="diq" hreflang="diq" data-title="1721" data-language-autonym="Zazaki" data-language-local-name="Dimli" class="interlanguage-link-target"><span>Zazaki</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/1721" title="1721 — греческий" lang="el" hreflang="el" data-title="1721" data-language-autonym="Ελληνικά" data-language-local-name="греческий" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-eml mw-list-item"><a href="https://eml.wikipedia.org/wiki/1721" title="1721 — Emiliano-Romagnolo" lang="egl" hreflang="egl" data-title="1721" data-language-autonym="Emiliàn e rumagnòl" data-language-local-name="Emiliano-Romagnolo" class="interlanguage-link-target"><span>Emiliàn e rumagnòl</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/1721" title="1721 — английский" lang="en" hreflang="en" data-title="1721" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/1721" title="1721 — эсперанто" lang="eo" hreflang="eo" data-title="1721" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/1721" title="1721 — испанский" lang="es" hreflang="es" data-title="1721" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/1721" title="1721 — эстонский" lang="et" hreflang="et" data-title="1721" data-language-autonym="Eesti" data-language-local-name="эстонский" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/1721" title="1721 — баскский" lang="eu" hreflang="eu" data-title="1721" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DB%B1%DB%B7%DB%B2%DB%B1_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۷۲۱ (میلادی) — персидский" lang="fa" hreflang="fa" data-title="۱۷۲۱ (میلادی)" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/1721" title="1721 — финский" lang="fi" hreflang="fi" data-title="1721" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/1721" title="1721 — фарерский" lang="fo" hreflang="fo" data-title="1721" data-language-autonym="Føroyskt" data-language-local-name="фарерский" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/1721" title="1721 — французский" lang="fr" hreflang="fr" data-title="1721" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frp mw-list-item"><a href="https://frp.wikipedia.org/wiki/1721" title="1721 — Arpitan" lang="frp" hreflang="frp" data-title="1721" data-language-autonym="Arpetan" data-language-local-name="Arpitan" class="interlanguage-link-target"><span>Arpetan</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/1721" title="1721 — северный фризский" lang="frr" hreflang="frr" data-title="1721" data-language-autonym="Nordfriisk" data-language-local-name="северный фризский" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-fur mw-list-item"><a href="https://fur.wikipedia.org/wiki/1721" title="1721 — фриульский" lang="fur" hreflang="fur" data-title="1721" data-language-autonym="Furlan" data-language-local-name="фриульский" class="interlanguage-link-target"><span>Furlan</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/1721" title="1721 — западнофризский" lang="fy" hreflang="fy" data-title="1721" data-language-autonym="Frysk" data-language-local-name="западнофризский" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/1721" title="1721 — ирландский" lang="ga" hreflang="ga" data-title="1721" data-language-autonym="Gaeilge" data-language-local-name="ирландский" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gan mw-list-item"><a href="https://gan.wikipedia.org/wiki/1721%E5%B9%B4" title="1721年 — гань" lang="gan" hreflang="gan" data-title="1721年" data-language-autonym="贛語" data-language-local-name="гань" class="interlanguage-link-target"><span>贛語</span></a></li><li class="interlanguage-link interwiki-gcr mw-list-item"><a href="https://gcr.wikipedia.org/wiki/1721" title="1721 — Guianan Creole" lang="gcr" hreflang="gcr" data-title="1721" data-language-autonym="Kriyòl gwiyannen" data-language-local-name="Guianan Creole" class="interlanguage-link-target"><span>Kriyòl gwiyannen</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/1721" title="1721 — гэльский" lang="gd" hreflang="gd" data-title="1721" data-language-autonym="Gàidhlig" data-language-local-name="гэльский" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/1721" title="1721 — галисийский" lang="gl" hreflang="gl" data-title="1721" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gv mw-list-item"><a href="https://gv.wikipedia.org/wiki/1721" title="1721 — мэнский" lang="gv" hreflang="gv" data-title="1721" data-language-autonym="Gaelg" data-language-local-name="мэнский" class="interlanguage-link-target"><span>Gaelg</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/1721" title="1721 — иврит" lang="he" hreflang="he" data-title="1721" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%A8%E0%A5%A7" title="१७२१ — хинди" lang="hi" hreflang="hi" data-title="१७२१" data-language-autonym="हिन्दी" data-language-local-name="хинди" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/1721." title="1721. — хорватский" lang="hr" hreflang="hr" data-title="1721." data-language-autonym="Hrvatski" data-language-local-name="хорватский" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hsb mw-list-item"><a href="https://hsb.wikipedia.org/wiki/1721" title="1721 — верхнелужицкий" lang="hsb" hreflang="hsb" data-title="1721" data-language-autonym="Hornjoserbsce" data-language-local-name="верхнелужицкий" class="interlanguage-link-target"><span>Hornjoserbsce</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/1721_(almanak_gregoryen)" title="1721 (almanak gregoryen) — гаитянский" lang="ht" hreflang="ht" data-title="1721 (almanak gregoryen)" data-language-autonym="Kreyòl ayisyen" data-language-local-name="гаитянский" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/1721" title="1721 — венгерский" lang="hu" hreflang="hu" data-title="1721" data-language-autonym="Magyar" data-language-local-name="венгерский" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/1721" title="1721 — армянский" lang="hy" hreflang="hy" data-title="1721" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hyw mw-list-item"><a href="https://hyw.wikipedia.org/wiki/1721_%D5%A9%D5%B8%D6%82%D5%A1%D5%AF%D5%A1%D5%B6" title="1721 թուական — западноармянский" lang="hyw" hreflang="hyw" data-title="1721 թուական" data-language-autonym="Արեւմտահայերէն" data-language-local-name="западноармянский" class="interlanguage-link-target"><span>Արեւմտահայերէն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/1721" title="1721 — интерлингва" lang="ia" hreflang="ia" data-title="1721" data-language-autonym="Interlingua" data-language-local-name="интерлингва" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/1721" title="1721 — индонезийский" lang="id" hreflang="id" data-title="1721" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/1721" title="1721 — илоко" lang="ilo" hreflang="ilo" data-title="1721" data-language-autonym="Ilokano" data-language-local-name="илоко" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/1721" title="1721 — идо" lang="io" hreflang="io" data-title="1721" data-language-autonym="Ido" data-language-local-name="идо" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/1721" title="1721 — исландский" lang="is" hreflang="is" data-title="1721" data-language-autonym="Íslenska" data-language-local-name="исландский" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/1721" title="1721 — итальянский" lang="it" hreflang="it" data-title="1721" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/1721%E5%B9%B4" title="1721年 — японский" lang="ja" hreflang="ja" data-title="1721年" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/1721" title="1721 — яванский" lang="jv" hreflang="jv" data-title="1721" data-language-autonym="Jawa" data-language-local-name="яванский" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/1721" title="1721 — грузинский" lang="ka" hreflang="ka" data-title="1721" data-language-autonym="ქართული" data-language-local-name="грузинский" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kaa mw-list-item"><a href="https://kaa.wikipedia.org/wiki/1721" title="1721 — каракалпакский" lang="kaa" hreflang="kaa" data-title="1721" data-language-autonym="Qaraqalpaqsha" data-language-local-name="каракалпакский" class="interlanguage-link-target"><span>Qaraqalpaqsha</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/1721_%D0%B6%D1%8B%D0%BB" title="1721 жыл — казахский" lang="kk" hreflang="kk" data-title="1721 жыл" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B3%A7%E0%B3%AD%E0%B3%A8%E0%B3%A7" title="೧೭೨೧ — каннада" lang="kn" hreflang="kn" data-title="೧೭೨೧" data-language-autonym="ಕನ್ನಡ" data-language-local-name="каннада" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/1721%EB%85%84" title="1721년 — корейский" lang="ko" hreflang="ko" data-title="1721년" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-krc mw-list-item"><a href="https://krc.wikipedia.org/wiki/1721_%D0%B4%D0%B6%D1%8B%D0%BB" title="1721 джыл — карачаево-балкарский" lang="krc" hreflang="krc" data-title="1721 джыл" data-language-autonym="Къарачай-малкъар" data-language-local-name="карачаево-балкарский" class="interlanguage-link-target"><span>Къарачай-малкъар</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/1721" title="1721 — латинский" lang="la" hreflang="la" data-title="1721" data-language-autonym="Latina" data-language-local-name="латинский" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/1721" title="1721 — люксембургский" lang="lb" hreflang="lb" data-title="1721" data-language-autonym="Lëtzebuergesch" data-language-local-name="люксембургский" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lez mw-list-item"><a href="https://lez.wikipedia.org/wiki/1721_%D0%B9%D0%B8%D1%81" title="1721 йис — лезгинский" lang="lez" hreflang="lez" data-title="1721 йис" data-language-autonym="Лезги" data-language-local-name="лезгинский" class="interlanguage-link-target"><span>Лезги</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wikipedia.org/wiki/1721" title="1721 — лимбургский" lang="li" hreflang="li" data-title="1721" data-language-autonym="Limburgs" data-language-local-name="лимбургский" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-lij mw-list-item"><a href="https://lij.wikipedia.org/wiki/1721" title="1721 — лигурский" lang="lij" hreflang="lij" data-title="1721" data-language-autonym="Ligure" data-language-local-name="лигурский" class="interlanguage-link-target"><span>Ligure</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/1721" title="1721 — ломбардский" lang="lmo" hreflang="lmo" data-title="1721" data-language-autonym="Lombard" data-language-local-name="ломбардский" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/1721_m." title="1721 m. — литовский" lang="lt" hreflang="lt" data-title="1721 m." data-language-autonym="Lietuvių" data-language-local-name="литовский" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/1721._gads" title="1721. gads — латышский" lang="lv" hreflang="lv" data-title="1721. gads" data-language-autonym="Latviešu" data-language-local-name="латышский" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mai mw-list-item"><a href="https://mai.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%A8%E0%A5%A7" title="१७२१ — майтхили" lang="mai" hreflang="mai" data-title="१७२१" data-language-autonym="मैथिली" data-language-local-name="майтхили" class="interlanguage-link-target"><span>मैथिली</span></a></li><li class="interlanguage-link interwiki-map-bms mw-list-item"><a href="https://map-bms.wikipedia.org/wiki/1721" title="1721 — Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" data-title="1721" data-language-autonym="Basa Banyumasan" data-language-local-name="Banyumasan" class="interlanguage-link-target"><span>Basa Banyumasan</span></a></li><li class="interlanguage-link interwiki-mdf mw-list-item"><a href="https://mdf.wikipedia.org/wiki/1721" title="1721 — мокшанский" lang="mdf" hreflang="mdf" data-title="1721" data-language-autonym="Мокшень" data-language-local-name="мокшанский" class="interlanguage-link-target"><span>Мокшень</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/1721" title="1721 — малагасийский" lang="mg" hreflang="mg" data-title="1721" data-language-autonym="Malagasy" data-language-local-name="малагасийский" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/1721" title="1721 — луговомарийский" lang="mhr" hreflang="mhr" data-title="1721" data-language-autonym="Олык марий" data-language-local-name="луговомарийский" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-mi mw-list-item"><a href="https://mi.wikipedia.org/wiki/1721" title="1721 — маори" lang="mi" hreflang="mi" data-title="1721" data-language-autonym="Māori" data-language-local-name="маори" class="interlanguage-link-target"><span>Māori</span></a></li><li class="interlanguage-link interwiki-min mw-list-item"><a href="https://min.wikipedia.org/wiki/1721" title="1721 — минангкабау" lang="min" hreflang="min" data-title="1721" data-language-autonym="Minangkabau" data-language-local-name="минангкабау" class="interlanguage-link-target"><span>Minangkabau</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/1721" title="1721 — македонский" lang="mk" hreflang="mk" data-title="1721" data-language-autonym="Македонски" data-language-local-name="македонский" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/1721" title="1721 — малаялам" lang="ml" hreflang="ml" data-title="1721" data-language-autonym="മലയാളം" data-language-local-name="малаялам" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87.%E0%A4%B8._%E0%A5%A7%E0%A5%AD%E0%A5%A8%E0%A5%A7" title="इ.स. १७२१ — маратхи" lang="mr" hreflang="mr" data-title="इ.स. १७२१" data-language-autonym="मराठी" data-language-local-name="маратхи" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-mrj mw-list-item"><a href="https://mrj.wikipedia.org/wiki/1721_%D0%B8" title="1721 и — горномарийский" lang="mrj" hreflang="mrj" data-title="1721 и" data-language-autonym="Кырык мары" data-language-local-name="горномарийский" class="interlanguage-link-target"><span>Кырык мары</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/1721" title="1721 — малайский" lang="ms" hreflang="ms" data-title="1721" data-language-autonym="Bahasa Melayu" data-language-local-name="малайский" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%81%81%E1%81%87%E1%81%82%E1%81%81" title="၁၇၂၁ — бирманский" lang="my" hreflang="my" data-title="၁၇၂၁" data-language-autonym="မြန်မာဘာသာ" data-language-local-name="бирманский" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-myv mw-list-item"><a href="https://myv.wikipedia.org/wiki/1721_%D0%B8%D0%B5" title="1721 ие — эрзянский" lang="myv" hreflang="myv" data-title="1721 ие" data-language-autonym="Эрзянь" data-language-local-name="эрзянский" class="interlanguage-link-target"><span>Эрзянь</span></a></li><li class="interlanguage-link interwiki-mzn mw-list-item"><a href="https://mzn.wikipedia.org/wiki/%DB%B1%DB%B7%DB%B2%DB%B1" title="۱۷۲۱ — мазандеранский" lang="mzn" hreflang="mzn" data-title="۱۷۲۱" data-language-autonym="مازِرونی" data-language-local-name="мазандеранский" class="interlanguage-link-target"><span>مازِرونی</span></a></li><li class="interlanguage-link interwiki-nah mw-list-item"><a href="https://nah.wikipedia.org/wiki/1721" title="1721 — Nahuatl" lang="nah" hreflang="nah" data-title="1721" data-language-autonym="Nāhuatl" data-language-local-name="Nahuatl" class="interlanguage-link-target"><span>Nāhuatl</span></a></li><li class="interlanguage-link interwiki-nap mw-list-item"><a href="https://nap.wikipedia.org/wiki/1721" title="1721 — неаполитанский" lang="nap" hreflang="nap" data-title="1721" data-language-autonym="Napulitano" data-language-local-name="неаполитанский" class="interlanguage-link-target"><span>Napulitano</span></a></li><li class="interlanguage-link interwiki-nds mw-list-item"><a href="https://nds.wikipedia.org/wiki/1721" title="1721 — нижненемецкий" lang="nds" hreflang="nds" data-title="1721" data-language-autonym="Plattdüütsch" data-language-local-name="нижненемецкий" class="interlanguage-link-target"><span>Plattdüütsch</span></a></li><li class="interlanguage-link interwiki-new mw-list-item"><a href="https://new.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AD%E0%A5%A8%E0%A5%A7" title="सन् १७२१ — неварский" lang="new" hreflang="new" data-title="सन् १७२१" data-language-autonym="नेपाल भाषा" data-language-local-name="неварский" class="interlanguage-link-target"><span>नेपाल भाषा</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/1721" title="1721 — нидерландский" lang="nl" hreflang="nl" data-title="1721" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/1721" title="1721 — нюнорск" lang="nn" hreflang="nn" data-title="1721" data-language-autonym="Norsk nynorsk" data-language-local-name="нюнорск" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/1721" title="1721 — норвежский букмол" lang="nb" hreflang="nb" data-title="1721" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nrm mw-list-item"><a href="https://nrm.wikipedia.org/wiki/1721" title="1721 — Norman" lang="nrf" hreflang="nrf" data-title="1721" data-language-autonym="Nouormand" data-language-local-name="Norman" class="interlanguage-link-target"><span>Nouormand</span></a></li><li class="interlanguage-link interwiki-nso mw-list-item"><a href="https://nso.wikipedia.org/wiki/1721" title="1721 — северный сото" lang="nso" hreflang="nso" data-title="1721" data-language-autonym="Sesotho sa Leboa" data-language-local-name="северный сото" class="interlanguage-link-target"><span>Sesotho sa Leboa</span></a></li><li class="interlanguage-link interwiki-oc badge-Q70893996 mw-list-item" title=""><a href="https://oc.wikipedia.org/wiki/1721" title="1721 — окситанский" lang="oc" hreflang="oc" data-title="1721" data-language-autonym="Occitan" data-language-local-name="окситанский" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-olo mw-list-item"><a href="https://olo.wikipedia.org/wiki/1721" title="1721 — ливвиковский карельский" lang="olo" hreflang="olo" data-title="1721" data-language-autonym="Livvinkarjala" data-language-local-name="ливвиковский карельский" class="interlanguage-link-target"><span>Livvinkarjala</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AD%A7%E0%AD%AD%E0%AD%A8%E0%AD%A7" title="୧୭୨୧ — ория" lang="or" hreflang="or" data-title="୧୭୨୧" data-language-autonym="ଓଡ଼ିଆ" data-language-local-name="ория" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-os mw-list-item"><a href="https://os.wikipedia.org/wiki/1721-%C3%A6%D0%BC_%D0%B0%D0%B7" title="1721-æм аз — осетинский" lang="os" hreflang="os" data-title="1721-æм аз" data-language-autonym="Ирон" data-language-local-name="осетинский" class="interlanguage-link-target"><span>Ирон</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/1721" title="1721 — польский" lang="pl" hreflang="pl" data-title="1721" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/1721" title="1721 — Western Punjabi" lang="pnb" hreflang="pnb" data-title="1721" data-language-autonym="پنجابی" data-language-local-name="Western Punjabi" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/1721" title="1721 — португальский" lang="pt" hreflang="pt" data-title="1721" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/1721" title="1721 — кечуа" lang="qu" hreflang="qu" data-title="1721" data-language-autonym="Runa Simi" data-language-local-name="кечуа" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/1721" title="1721 — румынский" lang="ro" hreflang="ro" data-title="1721" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-rue mw-list-item"><a href="https://rue.wikipedia.org/wiki/1721" title="1721 — русинский" lang="rue" hreflang="rue" data-title="1721" data-language-autonym="Русиньскый" data-language-local-name="русинский" class="interlanguage-link-target"><span>Русиньскый</span></a></li><li class="interlanguage-link interwiki-sa mw-list-item"><a href="https://sa.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%A8%E0%A5%A7" title="१७२१ — санскрит" lang="sa" hreflang="sa" data-title="१७२१" data-language-autonym="संस्कृतम्" data-language-local-name="санскрит" class="interlanguage-link-target"><span>संस्कृतम्</span></a></li><li class="interlanguage-link interwiki-sah mw-list-item"><a href="https://sah.wikipedia.org/wiki/1721" title="1721 — саха" lang="sah" hreflang="sah" data-title="1721" data-language-autonym="Саха тыла" data-language-local-name="саха" class="interlanguage-link-target"><span>Саха тыла</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/1721" title="1721 — сицилийский" lang="scn" hreflang="scn" data-title="1721" data-language-autonym="Sicilianu" data-language-local-name="сицилийский" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/1721%D8%B9" title="1721ع — синдхи" lang="sd" hreflang="sd" data-title="1721ع" data-language-autonym="سنڌي" data-language-local-name="синдхи" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-se mw-list-item"><a href="https://se.wikipedia.org/wiki/1721" title="1721 — северносаамский" lang="se" hreflang="se" data-title="1721" data-language-autonym="Davvisámegiella" data-language-local-name="северносаамский" class="interlanguage-link-target"><span>Davvisámegiella</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/1721." title="1721. — сербскохорватский" lang="sh" hreflang="sh" data-title="1721." data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="сербскохорватский" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-shn mw-list-item"><a href="https://shn.wikipedia.org/wiki/1721" title="1721 — шанский" lang="shn" hreflang="shn" data-title="1721" data-language-autonym="တႆး" data-language-local-name="шанский" class="interlanguage-link-target"><span>တႆး</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/1721" title="1721 — Simple English" lang="en-simple" hreflang="en-simple" data-title="1721" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/1721" title="1721 — словацкий" lang="sk" hreflang="sk" data-title="1721" data-language-autonym="Slovenčina" data-language-local-name="словацкий" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/1721" title="1721 — словенский" lang="sl" hreflang="sl" data-title="1721" data-language-autonym="Slovenščina" data-language-local-name="словенский" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-smn mw-list-item"><a href="https://smn.wikipedia.org/wiki/1721" title="1721 — инари-саамский" lang="smn" hreflang="smn" data-title="1721" data-language-autonym="Anarâškielâ" data-language-local-name="инари-саамский" class="interlanguage-link-target"><span>Anarâškielâ</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/1721" title="1721 — албанский" lang="sq" hreflang="sq" data-title="1721" data-language-autonym="Shqip" data-language-local-name="албанский" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/1721" title="1721 — сербский" lang="sr" hreflang="sr" data-title="1721" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/1721" title="1721 — сунданский" lang="su" hreflang="su" data-title="1721" data-language-autonym="Sunda" data-language-local-name="сунданский" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/1721" title="1721 — шведский" lang="sv" hreflang="sv" data-title="1721" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/1721" title="1721 — суахили" lang="sw" hreflang="sw" data-title="1721" data-language-autonym="Kiswahili" data-language-local-name="суахили" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-szl mw-list-item"><a href="https://szl.wikipedia.org/wiki/1721" title="1721 — силезский" lang="szl" hreflang="szl" data-title="1721" data-language-autonym="Ślůnski" data-language-local-name="силезский" class="interlanguage-link-target"><span>Ślůnski</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/1721" title="1721 — тамильский" lang="ta" hreflang="ta" data-title="1721" data-language-autonym="தமிழ்" data-language-local-name="тамильский" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/1721" title="1721 — телугу" lang="te" hreflang="te" data-title="1721" data-language-autonym="తెలుగు" data-language-local-name="телугу" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8_1721" title="Соли 1721 — таджикский" lang="tg" hreflang="tg" data-title="Соли 1721" data-language-autonym="Тоҷикӣ" data-language-local-name="таджикский" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%9E.%E0%B8%A8._2264" title="พ.ศ. 2264 — тайский" lang="th" hreflang="th" data-title="พ.ศ. 2264" data-language-autonym="ไทย" data-language-local-name="тайский" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tk mw-list-item"><a href="https://tk.wikipedia.org/wiki/1721" title="1721 — туркменский" lang="tk" hreflang="tk" data-title="1721" data-language-autonym="Türkmençe" data-language-local-name="туркменский" class="interlanguage-link-target"><span>Türkmençe</span></a></li><li class="interlanguage-link interwiki-tl badge-Q70893996 mw-list-item" title=""><a href="https://tl.wikipedia.org/wiki/1721" title="1721 — тагалог" lang="tl" hreflang="tl" data-title="1721" data-language-autonym="Tagalog" data-language-local-name="тагалог" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tly mw-list-item"><a href="https://tly.wikipedia.org/wiki/1721" title="1721 — талышский" lang="tly" hreflang="tly" data-title="1721" data-language-autonym="Tolışi" data-language-local-name="талышский" class="interlanguage-link-target"><span>Tolışi</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/1721" title="1721 — турецкий" lang="tr" hreflang="tr" data-title="1721" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/1721_%D0%B5%D0%BB" title="1721 ел — татарский" lang="tt" hreflang="tt" data-title="1721 ел" data-language-autonym="Татарча / tatarça" data-language-local-name="татарский" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/1721" title="1721 — украинский" lang="uk" hreflang="uk" data-title="1721" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/1721%D8%A1" title="1721ء — урду" lang="ur" hreflang="ur" data-title="1721ء" data-language-autonym="اردو" data-language-local-name="урду" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/1721" title="1721 — узбекский" lang="uz" hreflang="uz" data-title="1721" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/1721" title="1721 — венецианский" lang="vec" hreflang="vec" data-title="1721" data-language-autonym="Vèneto" data-language-local-name="венецианский" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/1721" title="1721 — вьетнамский" lang="vi" hreflang="vi" data-title="1721" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vls mw-list-item"><a href="https://vls.wikipedia.org/wiki/1721" title="1721 — West Flemish" lang="vls" hreflang="vls" data-title="1721" data-language-autonym="West-Vlams" data-language-local-name="West Flemish" class="interlanguage-link-target"><span>West-Vlams</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a href="https://wa.wikipedia.org/wiki/1721" title="1721 — валлонский" lang="wa" hreflang="wa" data-title="1721" data-language-autonym="Walon" data-language-local-name="валлонский" class="interlanguage-link-target"><span>Walon</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/1721" title="1721 — варай" lang="war" hreflang="war" data-title="1721" data-language-autonym="Winaray" data-language-local-name="варай" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/1721%E5%B9%B4" title="1721年 — у" lang="wuu" hreflang="wuu" data-title="1721年" data-language-autonym="吴语" data-language-local-name="у" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a href="https://xmf.wikipedia.org/wiki/1721" title="1721 — мегрельский" lang="xmf" hreflang="xmf" data-title="1721" data-language-autonym="მარგალური" data-language-local-name="мегрельский" class="interlanguage-link-target"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/1721" title="1721 — идиш" lang="yi" hreflang="yi" data-title="1721" data-language-autonym="ייִדיש" data-language-local-name="идиш" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/1721%E5%B9%B4" title="1721年 — китайский" lang="zh" hreflang="zh" data-title="1721年" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E4%B8%80%E4%B8%83%E4%BA%8C%E4%B8%80%E5%B9%B4" title="一七二一年 — Literary Chinese" lang="lzh" hreflang="lzh" data-title="一七二一年" data-language-autonym="文言" data-language-local-name="Literary Chinese" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/1721_n%C3%AE" title="1721 nî — миньнань" lang="nan" hreflang="nan" data-title="1721 nî" data-language-autonym="閩南語 / Bân-lâm-gí" data-language-local-name="миньнань" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gí</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/1721%E5%B9%B4" title="1721年 — кантонский" lang="yue" hreflang="yue" data-title="1721年" data-language-autonym="粵語" data-language-local-name="кантонский" class="interlanguage-link-target"><span>粵語</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6913#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 26 декабря 2025 года в 11:29.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=1721_%D0%B3%D0%BE%D0%B4&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5c9fc7f974-fk74b","wgBackendResponseTime":710,"wgPageParseReport":{"limitreport":{"cputime":"0.359","walltime":"0.492","ppvisitednodes":{"value":5822,"limit":1000000},"revisionsize":{"value":11581,"limit":2097152},"postexpandincludesize":{"value":122515,"limit":2097152},"templateargumentsize":{"value":7343,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13716,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  370.904      1 -total"," 22.60%   83.811      1 Шаблон:Нет_источников"," 21.09%   78.210      1 Шаблон:Родственные_проекты"," 19.14%   70.978      1 Шаблон:Навигация_для_века"," 16.31%   60.490      1 Шаблон:Ambox","  9.56%   35.444      1 Шаблон:Год_начинающийся","  9.53%   35.354      1 Шаблон:Десятилетия_и_годы_века","  8.64%   32.028      1 Шаблон:Flatlist","  8.42%   31.226      1 Шаблон:Год_в_других_календарях","  7.36%   27.317     12 Шаблон:Десятилетие_и_годы"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"10.000"},"limitreport-memusage":{"value":3113142,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-fk74b","timestamp":"20260213173551","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1721 \u0433\u043e\u0434","url":"https:\/\/ru.wikipedia.org\/wiki\/1721_%D0%B3%D0%BE%D0%B4","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6913","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6913","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-30T23:08:16Z","headline":"\u0433\u043e\u0434 XVIII \u0432\u0435\u043a\u0430"}</script>
+</body>
+</html>

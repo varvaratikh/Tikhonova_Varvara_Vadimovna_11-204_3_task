@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Россия (значения) — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"6d57640f-3abc-4da6-a4c5-580979f8c818","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Россия_(значения)","wgTitle":"Россия (значения)","wgCurRevisionId":149615196,"wgRevisionId":149615196,"wgArticleId":202443,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Статьи со ссылками на Викисловарь","Википедия:Ссылка на Викицитатник непосредственно в статье","Статьи со ссылками на Викитеку","Статьи со ссылками на Викисклад","Страницы значений по алфавиту","Страницы значений:Суда и корабли"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Россия_(значения)","wgRelevantArticleId":202443,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":149615196,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q398720","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.protectionIndicators.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.protectionIndicators.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Россия (значения) — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Россия_значения rootpage-Россия_значения skin-vector action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-disambig" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C#Страницы_значений" title="Справка о страницах значений"><img alt="Справка о страницах значений" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Disambig.svg/20px-Disambig.svg.png" decoding="async" width="20" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Disambig.svg/40px-Disambig.svg.png 1.5x" data-file-width="230" data-file-height="183" /></a></span></div></div>
+	<div id="mw-indicator-protection-autoconfirmed" class="mw-indicator"><a class="mw-protection-indicator-icon--lock" title="Эта страница защищена от редактирования (частичная защита (до автоподтверждённых)) до 08:03, 4 июня 2027." href="Википедия:Правила_защиты_страниц#Частичная_защита"><span>Эта страница защищена от редактирования (частичная защита (до автоподтверждённых)) до 08:03, 4 июня 2027.</span></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Россия (значения)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r137903846">.mw-parser-output .ts-Родственные_проекты{clear:right;float:right;width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{clear:none;float:none;width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные&#95;проекты ruwikiWikimediaNavigation metadata plainlinks plainlist noprint" role="navigation" aria-labelledby="В&#95;родственных&#95;проектах"><div class="ts-Родственные&#95;проекты-header" id="В&#95;родственных&#95;проектах"><b>В родственных проектах</b></div><ul><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/40px-Notification-icon-Wiktionary-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/60px-Notification-icon-Wiktionary-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label wiktionary-ref"><a href="https://ru.wiktionary.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="extiw" title="wikt:Россия">Значения в&#160;Викисловаре</a></span></li><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/40px-Notification-icon-Wikiquote.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/60px-Notification-icon-Wikiquote.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label wikiquote-ref"><a href="https://ru.wikiquote.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="extiw" title="q:Россия">Цитаты в&#160;Викицитатнике</a></span></li><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/40px-Notification-icon-Wikisource-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/60px-Notification-icon-Wikisource-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label wikisource-ref"><a href="https://ru.wikisource.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="extiw" title="s:Россия">Тексты в&#160;Викитеке</a></span></li><li class="ts-Родственные&#95;проекты-item"><span class="ts-Родственные&#95;проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/40px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/60px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные&#95;проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Russia_(disambiguation)" class="extiw" title="commons:Category:Russia (disambiguation)">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<p><b><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a></b>&#160;— государство в Восточной Европе и северной части Евразии.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Политический_и_этнокультурный_термин"><span class="tocnumber">1</span> <span class="toctext">Политический и этнокультурный термин</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Строения"><span class="tocnumber">2</span> <span class="toctext">Строения</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Гостиницы"><span class="tocnumber">2.1</span> <span class="toctext">Гостиницы</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Кинотеатры,_киноконцертные_залы"><span class="tocnumber">2.2</span> <span class="toctext">Кинотеатры, киноконцертные залы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Компании,_предприятия,_организации"><span class="tocnumber">3</span> <span class="toctext">Компании, предприятия, организации</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Транспорт"><span class="tocnumber">4</span> <span class="toctext">Транспорт</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#СМИ"><span class="tocnumber">5</span> <span class="toctext">СМИ</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Печатные_издания"><span class="tocnumber">5.1</span> <span class="toctext">Печатные издания</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Телевизионные_каналы"><span class="tocnumber">5.2</span> <span class="toctext">Телевизионные каналы</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Политические_организации"><span class="tocnumber">5.3</span> <span class="toctext">Политические организации</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Другое"><span class="tocnumber">6</span> <span class="toctext">Другое</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#См._также"><span class="tocnumber">7</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Политический_и_этнокультурный_термин"><span id=".D0.9F.D0.BE.D0.BB.D0.B8.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B9_.D0.B8_.D1.8D.D1.82.D0.BD.D0.BE.D0.BA.D1.83.D0.BB.D1.8C.D1.82.D1.83.D1.80.D0.BD.D1.8B.D0.B9_.D1.82.D0.B5.D1.80.D0.BC.D0.B8.D0.BD"></span>Политический и этнокультурный термин</h2></div>
+<div role="note" class="hatnote navigation-not-searchable ts-main"><style data-mw-deduplicate="TemplateStyles:r142002967">.mw-parser-output .ts-main a{font-weight:bold}.mw-parser-output .ts-main a.new,.mw-parser-output .ts-main a.extiw,.mw-parser-output .ts-main a.external{font-weight:normal}</style>Основная статья: <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%82%D0%BE%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC)" title="Россия (топоним)">Россия (топоним)</a></div><p>Термин применяемый к российскому государству в дипломатической переписке, разговорной речи и картографии в различные исторические периоды: 
+</p><ul><li>Наименование <a href="/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%8C" title="Киевская Русь">Древнерусского государства</a> и всех в совокупности <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Русские княжества">русских княжеств</a> в IX—XVI&#160;вв.</li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Русское государство">Русское государство</a>&#160;— государственное образование конца XV&#160;— начала XVIII веков.
+<ul><li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Русское царство">Русское царство</a>&#160;— наименование Русского государства по царской титулатуре в 1547—1721 годах.</li></ul></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a>&#160;— государство, существовавшее в период с 22 октября 1721 года до сентября 1917 года.</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Российская республика">Российская республика</a>&#160;— республика, существовавшая с 1 сентября 1917 года по 25 октября 1917 года.</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(1918%E2%80%941920)" title="Российское государство (1918—1920)">Российское государство (1918—1920)</a>&#160;— общероссийская государственность на территориях, подконтрольных Белому движению, во время Гражданской войны.</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Российская Советская Федеративная Социалистическая Республика">Российская Советская Федеративная Социалистическая Республика</a>&#160;— республика в составе СССР, 1921—1991.</li>
+<li>Неофициальное название <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">Советского Союза</a> в период его существования, широко распространённое за его пределами.</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" class="mw-redirect" title="Российская Федерация">Российская Федерация</a>&#160;— современное государство, название бывшей <a href="/wiki/%D0%A0%D0%A1%D0%A4%D0%A1%D0%A0" class="mw-redirect" title="РСФСР">РСФСР</a> с 25 декабря 1991 года. Крупнейшее в мире по территории.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Строения"><span id=".D0.A1.D1.82.D1.80.D0.BE.D0.B5.D0.BD.D0.B8.D1.8F"></span>Строения</h2></div>
+<ul><li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BD%D0%B5%D0%B1%D0%BE%D1%81%D0%BA%D1%80%D1%91%D0%B1)" title="Россия (небоскрёб)">Россия</a>»&#160;— отменённый проект постройки небоскрёба в Москве.</li></ul>
+<div class="mw-heading mw-heading3"><h3 id="Гостиницы"><span id=".D0.93.D0.BE.D1.81.D1.82.D0.B8.D0.BD.D0.B8.D1.86.D1.8B"></span>Гостиницы</h3></div>
+<ul><li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0,_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Россия (гостиница, Москва, Петровские линии) (страница отсутствует)">Россия</a>»&#160;— гостиница, существовавшая до Октябрьской революции на <a href="/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%9B%D0%B8%D0%BD%D0%B8%D0%B8" title="Петровские Линии">Петровских линиях</a> в Москве.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Россия (гостиница, Москва)">Россия</a>»&#160;— снесённая гостиница в Москве.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0,_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Россия (гостиница, Нижний Новгород) (страница отсутствует)">Россия</a>»&#160;— снесённая гостиница в <a href="/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" title="Нижний Новгород">Нижнем Новгороде</a>.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0,_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)" title="Россия (гостиница, Санкт-Петербург)">Россия</a>»&#160;— гостиница в Санкт-Петербурге.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0,_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6)&amp;action=edit&amp;redlink=1" class="new" title="Россия (гостиница, Воронеж) (страница отсутствует)">Россия</a>»&#160;— гостиница в <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6" title="Воронеж">Воронеже</a>.</li></ul>
+<div class="mw-heading mw-heading3"><h3 id="Кинотеатры,_киноконцертные_залы"><span id=".D0.9A.D0.B8.D0.BD.D0.BE.D1.82.D0.B5.D0.B0.D1.82.D1.80.D1.8B.2C_.D0.BA.D0.B8.D0.BD.D0.BE.D0.BA.D0.BE.D0.BD.D1.86.D0.B5.D1.80.D1.82.D0.BD.D1.8B.D0.B5_.D0.B7.D0.B0.D0.BB.D1.8B"></span>Кинотеатры, киноконцертные залы</h3></div>
+<ul><li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80,_%D0%93%D0%BB%D0%B0%D0%B7%D0%BE%D0%B2)" title="Россия (культурный центр, Глазов)">Россия</a>»&#160;— досуговый центр в Глазове.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%82%D0%B5%D0%B0%D1%82%D1%80)" title="Россия (театр)">Россия</a>»&#160;— театр в Москве (в 1997—2012&#160;гг.&#160;— кинотеатр «Пушкинский»).</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BA%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80,_%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C)" title="Россия (кинотеатр, Севастополь)">Россия</a>»&#160;— кинотеатр в Севастополе.</li>
+<li>«Россия»&#160;— название <a href="/wiki/%D0%9A%D0%B8%D0%BE%D1%82%D0%BE_(%D0%BA%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80,_%D0%9A%D0%B8%D0%B5%D0%B2)" title="Киото (кинотеатр, Киев)">киевского кинотеатра «Киото»</a> до 2016 года.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Компании,_предприятия,_организации"><span id=".D0.9A.D0.BE.D0.BC.D0.BF.D0.B0.D0.BD.D0.B8.D0.B8.2C_.D0.BF.D1.80.D0.B5.D0.B4.D0.BF.D1.80.D0.B8.D1.8F.D1.82.D0.B8.D1.8F.2C_.D0.BE.D1.80.D0.B3.D0.B0.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D0.B8"></span>Компании, предприятия, организации</h2></div>
+<ul><li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0)" title="Россия (шоколадная фабрика)">Россия</a>»&#160;— шоколадная фабрика в Самаре.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" title="Россия (страховая компания)">Россия</a>»&#160;— российская страховая компания.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE)" title="Россия (страховое общество)">Россия</a>»&#160;— российское страховое общество (1881—1919).</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B1%D0%B0%D0%BD%D0%BA)" title="Россия (банк)">Россия</a>»&#160;— акционерный банк (АО).</li>
+<li>«<a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB_%C2%AB%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%C2%BB" class="mw-redirect" title="Государственный центральный концертный зал «Россия»">Россия</a>»&#160;— государственный центральный концертный зал (ГЦКЗ) в Москве.</li>
+<li>«Россия»&#160;— колхоз в селе <a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%9E%D0%BB%D1%8C%D1%88%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)" class="mw-redirect" title="Большая Ольшанка (Россия)">Большая Ольшанка</a> Саратовской области, созданный во время Великой Отечественной войны.</li>
+<li>«<a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BB%D1%91%D1%82%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D1%80%D1%8F%D0%B4_%C2%AB%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%C2%BB" title="Специальный лётный отряд «Россия»">Россия</a>»&#160;— специальный лётный отряд, обеспечивающий перевозку воздушным транспортом высших должностных лиц Российской Федерации.</li>
+<li>«<span data-interwiki-lang="d" data-interwiki-article="Q76936956"><a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Россия (завод) (страница отсутствует)">Россия</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://www.wikidata.org/wiki/Q76936956#sitelinks-wikipedia" class="extiw" title="d:Q76936956"><span title="Элемент статьи «Россия (завод)» в Викиданных">[вд]</span></a></sup>&#160;»&#160;— предприятие в Ленинграде—Санкт-Петербурге (до 2005&#160;г.), бывший завод «Промет».</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Транспорт"><span id=".D0.A2.D1.80.D0.B0.D0.BD.D1.81.D0.BF.D0.BE.D1.80.D1.82"></span>Транспорт</h2></div>
+<ul><li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%84%D1%80%D0%B5%D0%B3%D0%B0%D1%82,_1728)" title="Россия (фрегат, 1728)">Россия</a>»&#160;— фрегат Балтийского флота России 1728 года постройки.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C,_1839)" title="Россия (линейный корабль, 1839)">Россия</a>»&#160;— линейный корабль Балтийского флота России 1839 года постройки.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BF%D0%B0%D1%80%D0%BE%D1%85%D0%BE%D0%B4)" title="Россия (пароход)">Россия</a>»&#160;— пароход Черноморского флота России. Участник Русско-турецкой войны 1877-78 годов.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80)" title="Россия (крейсер)">Россия</a>»&#160;— броненосный крейсер российского императорского и советского флотов.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BB%D0%B5%D0%B4%D0%BE%D0%BA%D0%BE%D0%BB,_1983)" title="Россия (ледокол, 1983)">Россия</a>»&#160;— российский атомный ледокол типа «Арктика», спущен на воду в 1983 году.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BB%D0%B5%D0%B4%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_10510)&amp;action=edit&amp;redlink=1" class="new" title="Россия (ледокол проекта 10510) (страница отсутствует)">Россия</a>»&#160;— строящийся российский атомный ледокол типа «Лидер».</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B4%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%85%D0%BE%D0%B4)" title="Россия (дизель-электроход)">Россия</a>»&#160;— советский морской круизный пассажирский дизель-электроход.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%82%D0%B8%D0%BF_%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D0%B4%D0%BE%D0%B2,_1952)" title="Россия (тип речных судов, 1952)">Россия</a>»&#160;— проект 785, тип советских речных пассажирских дизель-электроходов.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%82%D0%B8%D0%BF_%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D0%B4%D0%BE%D0%B2,_1973)&amp;action=edit&amp;redlink=1" class="new" title="Россия (тип речных судов, 1973) (страница отсутствует)">Россия</a>»&#160;— проект 1877, тип советских речных пассажирских теплоходов класса люкс.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%82%D0%B8%D0%BF_%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D0%B4%D0%BE%D0%B2,_1978)&amp;action=edit&amp;redlink=1" class="new" title="Россия (тип речных судов, 1978) (страница отсутствует)">Россия</a>»&#160;— <a href="/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%BB%D1%8C%D0%B8%D1%87_(%D1%82%D0%B8%D0%BF_%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D0%B4%D0%BE%D0%B2)" class="mw-redirect" title="Владимир Ильич (тип речных судов)">проект 301 «Владимир Ильич»</a>, тип советских речных пассажирских теплоходов класса люкс.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B1%D1%80%D0%B8%D0%B3)&amp;action=edit&amp;redlink=1" class="new" title="Россия (бриг) (страница отсутствует)">Россия</a>»&#160;— бриг, являющийся символом праздника выпускников петербургских школ «<a href="/wiki/%D0%90%D0%BB%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0_(%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)" title="Алые паруса (праздник выпускников)">Алые Паруса</a>».</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" title="Россия (авиакомпания)">Россия</a>»&#160;— российская государственная авиакомпания.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4)" title="Россия (поезд)">Россия</a>»&#160;— скорый фирменный поезд №&#160;002М/001М сообщением Владивосток&#160;— Москва&#160;— Владивосток.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0)" title="Россия (автодорога)">Россия</a>»&#160;— автомобильная дорога федерального значения Москва&#160;— Тверь&#160;— Великий Новгород&#160;— Санкт-Петербург (<span style="background:#0078d5; padding-left:.3em; padding-right:.3em; font-weight:bold;"><span class="nowrap"><a href="/wiki/%D0%9C10_(%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0,_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)" class="mw-redirect" title="М10 (автодорога, Россия)"><span style="color:white">М10</span></a></span></span>, <span style="background:#1f7a39; padding-left:.3em; padding-right:.3em; font-weight:bold;"><span class="nowrap"><a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82_E105" title="Европейский маршрут E105"><span style="color:white">E&#160;105</span></a></span></span>).</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="СМИ"><span id=".D0.A1.D0.9C.D0.98"></span>СМИ</h2></div>
+<div class="mw-heading mw-heading3"><h3 id="Печатные_издания"><span id=".D0.9F.D0.B5.D1.87.D0.B0.D1.82.D0.BD.D1.8B.D0.B5_.D0.B8.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F"></span>Печатные издания</h3></div>
+<ul><li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_XIX_%D0%B2%D0%B5%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Россия (журнал XIX века) (страница отсутствует)">Россия</a>»&#160;— литературно-художественный журнал, выходивший в 1883—1890 годах (с перерывами) в Москве.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0)" title="Россия (газета)">Россия</a>»&#160;— ежедневная газета, выходившая в 1899—1902 годах в Петербурге.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0,_1905-1914)&amp;action=edit&amp;redlink=1" class="new" title="Россия (газета, 1905-1914) (страница отсутствует)">Россия</a>»&#160;— ежедневная газета, выходила в 1905—1914 годах в Петербурге. Сначала издавалась как частная газета, но с 1906&#160;г. по инициативе <a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D1%8B%D0%BF%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Столыпин, Пётр Аркадьевич">П. Столыпина</a>, формально сохраняя прежний статус, стала правительственным официозом; редакторы <a href="/wiki/%D0%A1%D1%8B%D1%80%D0%BE%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Сыромятников, Сергей Николаевич">С.&#160;Н.&#160;Сыромятников</a> и <a href="/wiki/%D0%93%D1%83%D1%80%D0%BB%D1%8F%D0%BD%D0%B4,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87" title="Гурлянд, Илья Яковлевич">И.&#160;Я.&#160;Гурлянд</a>&#160;— чиновник министерства внутренних дел.</li>
+<li>«<a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Новая Россия (журнал)">Россия</a>», «Новая Россия»&#160;— общественно-политический и литературно-художественный журнал. Выходил с перерывами с марта 1922 по март 1926 в Петрограде, в Москве.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0,_1918-1919)&amp;action=edit&amp;redlink=1" class="new" title="Россия (газета, 1918-1919) (страница отсутствует)">Россия</a>»&#160;— газета, выходившая в 1918—1919 годах в разных городах южной части России, первоначально как орган <a href="/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F" title="Добровольческая армия">Добровольческой армии</a>; редактировал <a href="/wiki/%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%B8%D0%BD,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Шульгин, Василий Витальевич">В.&#160;В.&#160;Шульгин</a>.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0,_1919-1920)&amp;action=edit&amp;redlink=1" class="new" title="Россия (газета, 1919-1920) (страница отсутствует)">Россия</a>»&#160;— газета, выходившая в <a href="/wiki/1919" class="mw-redirect" title="1919">1919</a>—<a href="/wiki/1920" class="mw-redirect" title="1920">1920</a>&#160;гг. в <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париже</a><sup id="cite&#95;ref-gazetastruve&#95;1-0" class="reference"><a href="#cite_note-gazetastruve-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0,_1927-1928)&amp;action=edit&amp;redlink=1" class="new" title="Россия (газета, 1927-1928) (страница отсутствует)">Россия</a>»&#160;— газета, выходившая в <a href="/wiki/1927" class="mw-redirect" title="1927">1927</a>—<a href="/wiki/1928" class="mw-redirect" title="1928">1928</a>&#160;гг. в <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париже</a> под редакцией <a href="/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%B2%D0%B5_%D0%9F%D1%91%D1%82%D1%80_%D0%91%D0%B5%D1%80%D0%BD%D0%B3%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" class="mw-redirect" title="Струве Пётр Бернгардович">Петра Струве</a><sup id="cite&#95;ref-gazetapari&#95;2-0" class="reference"><a href="#cite_note-gazetapari-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>«<a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0,_%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA)&amp;action=edit&amp;redlink=1" class="new" title="Россия (газета, Нью-Йорк) (страница отсутствует)">Россия</a>»&#160;— газета, выходившая в <a href="/wiki/1933" class="mw-redirect" title="1933">1933</a>—<a href="/wiki/1973" class="mw-redirect" title="1973">1973</a>&#160;гг. в <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорке</a><sup id="cite&#95;ref-gazetaYork&#95;3-0" class="reference"><a href="#cite_note-gazetaYork-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.</li></ul>
+<div class="mw-heading mw-heading3"><h3 id="Телевизионные_каналы"><span id=".D0.A2.D0.B5.D0.BB.D0.B5.D0.B2.D0.B8.D0.B7.D0.B8.D0.BE.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BA.D0.B0.D0.BD.D0.B0.D0.BB.D1.8B"></span>Телевизионные каналы</h3></div>
+<ul><li>«Россия»&#160;— старое название телеканала «<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1" title="Россия-1">Россия-1</a>» в период с 1 сентября 2002 по 31 декабря 2009 года.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-2" title="Россия-2">Россия-2</a>»&#160;— бывший общероссийский спортивно-познавательно-развлекательный телеканал.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-24" class="mw-redirect" title="Россия-24">Россия-24</a>»&#160;— общероссийский информационный телеканал.</li>
+<li>«<a href="/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)" title="Культура (телеканал)">Россия К</a>»&#160;— общероссийский телеканал «Культура».</li>
+<li>«<a href="/wiki/VH1_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="VH1 Россия">VH1 Россия</a>»&#160;— бывший музыкально-развлекательный телеканал.</li></ul>
+<div class="mw-heading mw-heading3"><h3 id="Политические_организации"><span id=".D0.9F.D0.BE.D0.BB.D0.B8.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.BE.D1.80.D0.B3.D0.B0.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D0.B8"></span>Политические организации</h3></div>
+<ul><li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B1%D0%BB%D0%BE%D0%BA)" title="Россия (блок)">Россия</a>&#160;— крымский блок партий.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Другое"><span id=".D0.94.D1.80.D1.83.D0.B3.D0.BE.D0.B5"></span>Другое</h2></div>
+<ul><li>Ро́ссия (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;"><a href="/wiki/Rossia" title="Rossia">Rossia</a></span>)&#160;— род <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5" title="Головоногие">головоногих моллюсков</a> из семейства <a href="/wiki/%D0%A1%D0%B5%D0%BF%D0%B8%D0%BE%D0%BB%D0%B8%D0%B4%D1%8B" title="Сепиолиды">сепиолиды</a>.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F._%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE_%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Россия. Полное географическое описание нашего отечества">Россия. Полное географическое описание нашего отечества</a>»&#160;— первый в России систематический иллюстрированный географический справочник, изданный в 1899—1914&#160;гг. под общим руководством П.&#160;П.&#160;Семенова-Тян-Шанского.</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F)" title="Россия (фракция)">Россия</a>&#160;— депутатская группа в Государственной думе первого созыва.</li>
+<li><a href="/wiki/(232)_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="(232) Россия">(232) Россия</a>&#160;— малая планета.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BF%D0%B5%D1%81%D0%BD%D1%8F)" title="Россия (песня)">Россия</a>»&#160;— песня Игоря Талькова.</li>
+<li><a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6)&amp;action=edit&amp;redlink=1" class="new" title="Россия (персонаж) (страница отсутствует)">Россия</a>&#160;— персонаж аниме «<a href="/wiki/%D0%A5%D0%B5%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_%D0%B8_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8B_%D0%9E%D1%81%D0%B8" title="Хеталия и страны Оси">Хеталия и страны Оси</a>».</li>
+<li>«Россия», «Россия на всех диапазонах»&#160;— <a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D1%8B" title="Радиолюбительские дипломы">дипломы</a> <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Союз радиолюбителей России">Союза радиолюбителей России</a>.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0_%D0%901)" title="Россия (команда А1)">Россия</a>»&#160;— команда, представлявшая Россию в международной серии кольцевых автогонок «А1 Гран-при».</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%85%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Россия (хоккейный клуб)">Россия</a>»&#160;— команда по хоккею с шайбой, существовавшая в городе Краснокамске Пермской области.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Россия (женский футбольный клуб)">Россия</a>»&#160;— женский футбольный клуб из Хотьково.</li>
+<li>«<a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D0%BB%D0%B8%D1%82_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Монолит (футбольный клуб)">Россия</a>»&#160;— название футбольного клуба «Монолит» из Москвы в 1993—1994&#160;годах.</li>
+<li>«Россия»&#160;— стадион в <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B2%D1%8F%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" title="Нововятский район">Нововятском районе</a> города Кирова.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%BA%D0%BE%D0%BD%D1%8C%D1%8F%D0%BA)" class="mw-redirect" title="Россия (коньяк)">Россия</a>»&#160;— марка кизлярского коньяка.</li>
+<li>«<a href="/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4)" title="Единая Россия (бронепоезд)">Единая Россия</a>»&#160;— бронепоезд в Добровольческой армии.</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C)" title="Россия (фестиваль)">Россия</a>»&#160;— ежегодный фестиваль документального кино, проходящий с 1988&#160;года в Екатеринбурге (Свердловске).</li>
+<li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D1%81%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0)" title="Россия (скульптура)">Россия</a>»&#160;— скульптура Н.&#160;А.&#160;Лаверецкого 1896&#160;года.</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B4%D0%B6%D0%B0%D0%BC%D0%BE%D0%B0%D1%82)" title="Россия (джамоат)">Россия (джамоат)</a>&#160;— сельская община в Таджикистане.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2></div>
+<ul><li>«<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%B2_1839_%D0%B3%D0%BE%D0%B4%D1%83" title="Россия в 1839 году">Россия в 1839&#160;году</a>»</li>
+<li><span class="dabhide"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F" class="mw-disambig" title="Россия молодая">Россия молодая</a></span></li>
+<li><span class="dabhide"><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="mw-disambig" title="Молодая Россия">Молодая Россия</a></span></li>
+<li><span class="dabhide"><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="mw-disambig" title="Новая Россия">Новая Россия (значения)</a></span></li>
+<li><span class="dabhide"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9" class="mw-disambig" title="Российский">Российский</a></span></li>
+<li><span class="dabhide"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F" class="mw-disambig" title="Российская">Российская</a></span></li>
+<li><span class="dabhide"><a href="/wiki/%D0%A0%D0%A4_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="РФ (значения)">РФ (значения)</a></span></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-gazetastruve-1"><span class="mw-cite-backlink"><a href="#cite_ref-gazetastruve_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=142032">Данные Российской национальной библиотеки</a></span>
+</li>
+<li id="cite&#95;note-gazetapari-2"><span class="mw-cite-backlink"><a href="#cite_ref-gazetapari_2-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=142034">Данные Российской национальной библиотеки</a></span>
+</li>
+<li id="cite&#95;note-gazetaYork-3"><span class="mw-cite-backlink"><a href="#cite_ref-gazetaYork_3-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=142037">Данные Российской национальной библиотеки</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 24 июня 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200929180005/http://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=142037">Архивировано</a> 29 сентября 2020 года.</span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Россия&#95;в&#95;темах" data-name="Россия в темах"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%B2_%D1%82%D0%B5%D0%BC%D0%B0%D1%85" title="Перейти к шаблону «Россия в темах»"><img alt="Перейти к шаблону «Россия в темах»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Россия&#95;в&#95;темах" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a> в темах</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="История России">История</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Хронология истории России">Хронология</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0" title="Восточнославянские племена">Племенные союзы восточных славян</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%8C" title="Русь">Русь</a>
+<ul><li><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D1%8E%D1%80%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Государство Рюрика">Государство Рюрика</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%8C" title="Киевская Русь">Киевская Русь</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5" title="Великое княжество Владимирское">Великое княжество Владимирское</a></li></ul></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Русские княжества">Русские княжества</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Русское государство">Русское государство</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Российская республика">Российская республика</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(1918%E2%80%941920)" title="Российское государство (1918—1920)">Российское государство</a> <small>(1918—1920)</small></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_(1917%E2%80%941922)" class="mw-redirect" title="Российская Социалистическая Федеративная Советская Республика (1917—1922)">РСФСР</a> <small>(1917—1922)</small></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Российская Советская Федеративная Социалистическая Республика">РСФСР</a> <small>(в составе СССР)</small></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" class="mw-redirect" title="Российская Федерация">Российская Федерация</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center">По темам</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Археология России">Археология</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="История экономики России">Экономика</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D0%BE%D1%87%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="История почты России">Почта</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="История театра в России">Театр</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="Государственный строй"><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%B9_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Государственный строй России">Политика</a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Государственные символы России">Государственные символы</a>
+<ul><li><a href="/wiki/%D0%93%D0%B5%D1%80%D0%B1_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Герб России">Герб</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BC%D0%BD_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Гимн России">Гимн</a></li>
+<li><a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Флаг России">Флаг</a></li></ul></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Гражданство России">Гражданин</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Права человека в России">Права человека</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Конституция Российской Федерации">Конституция</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Президент Российской Федерации">Президент</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Правительство Российской Федерации">Правительство</a></li>
+<li><a href="/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5" title="Федеральное собрание">Федеральное собрание</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Общественная палата Российской Федерации">Общественная палата</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Судебная система Российской Федерации">Судебная система</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Конституционный суд Российской Федерации">Конституционный суд</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Политические партии России">Политические партии</a></li>
+<li><a href="/wiki/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Внутренняя политика России">Внутренняя политика</a></li>
+<li><a href="/wiki/%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Внешняя политика России">Внешняя политика</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="География России">География</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Столица</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Геология России">Геология</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Полезные ископаемые России">Минеральные ресурсы</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F#Рельеф" title="Россия">Рельеф</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B0%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Климат России">Климат</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F#Почвы" title="Россия">Почвы</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B8%D1%80_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Растительный мир России">Растительный мир</a></li>
+<li><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B8%D1%80_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Животный мир России">Животный мир</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Окружающая среда России">Экология</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Экономика России">Экономика</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Авиационная промышленность России">Авиационная промышленность</a></li>
+<li><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Автомобильная промышленность России">Автомобильная промышленность</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Банковская система России">Банковская система</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BD%D0%BA_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Банк России">Центральный банк</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA" title="Гознак">Гознак</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Интернет в России">Интернет</a></li>
+<li><a href="/wiki/%D0%98%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Игорный бизнес в России">Игорный бизнес</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Космическая промышленность России">Космическая промышленность</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D1%81%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Леса России">Лесная отрасль</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Нефтяная промышленность России">Нефтяная промышленность</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Наука в России">Наука</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Военно-промышленный комплекс России">Оборонно-промышленный комплекс</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Промышленность России">Промышленность</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Почта России">Почта</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Полезные ископаемые России">Полезные ископаемые</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%83%D0%B1%D0%BB%D1%8C" title="Российский рубль">Российский рубль</a></li>
+<li><a href="/wiki/%D0%A0%D1%8B%D0%B1%D0%BE%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Рыбохозяйственный комплекс России">Рыбохозяйственный комплекс</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Сельское хозяйство России">Сельское хозяйство</a></li>
+<li><a href="/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Связь в России">Связь</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%B4%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Судостроение России">Судостроение</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B9_%D1%80%D1%8B%D0%BD%D0%BE%D0%BA_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Страховой рынок Российской Федерации">Страховой рынок</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Транспортная система России">Транспорт</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Туризм в России">Туризм</a></li>
+<li><a href="/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Энергетика России">Энергетика</a></li>
+<li><a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Экономическое районирование России">Экономические районы</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Вооружённые силы Российской Федерации">Вооружённые<br />силы</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D1%83%D1%85%D0%BE%D0%BF%D1%83%D1%82%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Сухопутные войска Российской Федерации">Сухопутные войска</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE-%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Воздушно-космические силы Российской Федерации">Воздушно-космические силы</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D1%84%D0%BB%D0%BE%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Военно-морской флот Российской Федерации">Военно-морской флот</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Ракетные войска стратегического назначения Российской Федерации">Ракетные войска стратегического назначения</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE-%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Воздушно-десантные войска Российской Федерации">Воздушно-десантные войска</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Население России">Население</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B3%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Агломерации России">Агломерации</a>
+<ul><li><small><a href="/wiki/%D0%90%D0%B3%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Агломерации-миллионеры России">крупнейшие</a></small></li></ul></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Города России">Города</a>
+<ul><li><small><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D1%81_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100_%D1%82%D1%8B%D1%81%D1%8F%D1%87_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA" title="Список городов России с населением более 100 тысяч человек">крупнейшие</a></small></li>
+<li><small><a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Столицы России">столицы</a></small></li></ul></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Демографический кризис в Российской Федерации">Демографический кризис</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B8%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D0%B0" title="Русская диаспора">Диаспора</a></li>
+<li><a href="/wiki/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Внутренняя миграция населения в России">Миграции населения</a>
+<ul><li><a href="/wiki/%D0%AD%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8%D0%B7_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Эмиграция из России">Эмиграция</a></li>
+<li><a href="/wiki/%D0%98%D0%BC%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E" title="Иммиграция в Россию">Иммиграция</a></li></ul></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B2_%D1%81%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D1%85_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Продолжительность жизни в субъектах Российской Федерации">Продолжительность жизни</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Размещение населения в России">Размещение населения</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Религия в России">Религия</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Сельское расселение России">Сельское расселение</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Трудовые ресурсы в России">Трудовые ресурсы</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Национальный состав России">Этносы</a></li>
+<li><a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Языки России">Языки</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Культура России">Культура</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Наука в России">Наука</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Образование в России">Образование</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Русская литература">Литература</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Русская архитектура">Архитектура</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Культура России">Изобразительное искусство</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0" title="Русская музыка">Музыка</a></li>
+<li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Опера в России">Опера</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%B5%D1%82_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Балет в России">Балет</a></li>
+<li><a href="/w/index.php?title=%D0%A6%D0%B8%D1%80%D0%BA_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Цирк в России (страница отсутствует)">Цирк</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Кинематограф России">Кинематограф</a></li>
+<li><a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Средства массовой информации России">СМИ</a>
+<ul><li><small><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Телевидение в России">телевидение</a></small></li></ul></li>
+<li><a href="/wiki/%D0%A0%D1%83%D0%BD%D0%B5%D1%82" title="Рунет">Рунет</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Праздники России">Праздники</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F" title="Русская кухня">Кухня</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;text-align: center"><a href="/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Спорт в России">Спорт</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%B2_%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B5" title="Россия в автоспорте">Автоспорт</a></li>
+<li><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Альпинизм в России">Альпинизм</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Баскетбол в России">Баскетбол</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%B0%D1%82%D0%BB%D0%BE%D0%BD_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Биатлон в России">Биатлон</a></li>
+<li><a href="/w/index.php?title=%D0%91%D0%BE%D0%BA%D1%81_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Бокс в России (страница отсутствует)">Бокс</a></li>
+<li><a href="/w/index.php?title=%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Борьба в России (страница отсутствует)">Борьба</a></li>
+<li><a href="/w/index.php?title=%D0%92%D0%BE%D0%BB%D0%B5%D0%B9%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Волейбол в России (страница отсутствует)">Волейбол</a></li>
+<li><a href="/w/index.php?title=%D0%93%D0%B0%D0%BD%D0%B4%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Гандбол в России (страница отсутствует)">Гандбол</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0#Спортивная_гимнастика_в_России_и_СССР" title="Спортивная гимнастика">Гимнастика</a></li>
+<li><a href="/wiki/%D0%94%D0%B7%D1%8E%D0%B4%D0%BE_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Дзюдо в России и СССР">Дзюдо</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Карате в России">Карате</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Конный спорт в России (страница отсутствует)">Конный спорт</a></li>
+<li><a href="/w/index.php?title=%D0%9B%D1%91%D0%B3%D0%BA%D0%B0%D1%8F_%D0%B0%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Лёгкая атлетика в России (страница отсутствует)">Лёгкая атлетика</a></li>
+<li><a href="/w/index.php?title=%D0%9B%D1%8B%D0%B6%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Лыжный спорт в России (страница отсутствует)">Лыжный спорт</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BD%D0%BD%D0%B8%D1%81_%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0_%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Настольный теннис в СССР и России">Настольный теннис</a></li>
+<li><a href="/w/index.php?title=%D0%9F%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Плавание в России (страница отсутствует)">Плавание</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B1%D0%B8_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Регби в России">Регби</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BC%D0%B1%D0%BE_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Самбо в России (страница отсутствует)">Самбо</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Синхронное плавание в России">Синхронное плавание</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Теннис в России (страница отсутствует)">Теннис</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D1%8F%D0%B6%D1%91%D0%BB%D0%B0%D1%8F_%D0%B0%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Тяжёлая атлетика в России (страница отсутствует)">Тяжёлая атлетика</a></li>
+<li><a href="/w/index.php?title=%D0%A4%D0%B5%D1%85%D1%82%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Фехтование в России (страница отсутствует)">Фехтование</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%BE%D0%B5_%D0%BA%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Фигурное катание в России">Фигурное катание</a></li>
+<li><a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Футбол в России">Футбол</a></li>
+<li><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9_%D0%BD%D0%B0_%D1%82%D1%80%D0%B0%D0%B2%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Хоккей на траве в России (страница отсутствует)">Хоккей на траве</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9_%D1%81_%D0%BC%D1%8F%D1%87%D0%BE%D0%BC_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Хоккей с мячом в России">Хоккей с мячом</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9_%D1%81_%D1%88%D0%B0%D0%B9%D0%B1%D0%BE%D0%B9_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Хоккей с шайбой в России">Хоккей с шайбой</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Шахматы в России">Шахматы</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div><div class="hlist" style="text-align:center; font-style:italic">
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Категория:Россия">Категория</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Портал:Россия">Портал</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Проект:Россия">Проект</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r143238893">.mw-parser-output .ts-disambig{margin:1em 0}.mw-parser-output .ts-disambig:last-child{margin-bottom:0}body.ns-0 .mw-parser-output .ts-disambig{margin-top:2em}.mw-parser-output .ts-disambig-reflist{clear:both}.mw-parser-output .ts-disambig-reflist>[role="heading"]{border-top:1px solid var(--border-color-base,#a2a9b1);font-weight:bold;padding-top:0.5em}.mw-parser-output .ts-disambig-reflist>[role="heading"]:only-child{display:none}.mw-parser-output .ts-disambig-reflist .references{font-size:90%;margin-bottom:1em}.mw-parser-output .ts-disambig-mbox{background:var(--background-color-base,#fff);border:solid var(--border-color-base,#a2a9b1);border-width:2px 0;clear:both;font-size:90%;font-style:italic;padding:0.5em 0}@media(min-width:640px){.mw-parser-output .ts-disambig-mbox{font-size:inherit;padding:0.5em}}.mw-parser-output .ts-disambig-mbox .error{font-size:inherit;font-style:normal}.mw-parser-output .ts-disambig-block{align-items:center;display:flex}.mw-parser-output .ts-disambig-image{box-sizing:border-box;flex:0 auto;margin-right:0.5em;text-align:center;width:30px}.mw-parser-output .ts-disambig-text{flex:1}.mw-parser-output .ts-disambig-listIntro{font-weight:bold;margin-top:0.5em}.mw-parser-output .ts-disambig-list{list-style:none;margin:0;padding:0}.mw-parser-output .ts-disambig-list>li{margin:0}.mw-parser-output .ts-disambig-list>li+li{margin-top:0.25em}.mw-parser-output .ts-disambig-list .ts-disambig-block .ts-disambig-image{padding-left:10px}.mw-parser-output .ts-disambig-categoryList{font-style:normal}.mw-parser-output .ts-disambig-categoryList .ts-disambig-image::before{content:"—";font-weight:bold}.mw-parser-output .ts-disambig-projectLink{margin-top:0.5em;text-align:center}.mw-parser-output .ts-disambig-projectLink>*{font-size:90%;position:relative}.mw-parser-output .ts-disambig-projectLink img{margin-right:0.5em}.mw-parser-output .ts-disambig-projectLink a::after{bottom:0;content:"";left:0;position:absolute;right:0;top:0}@media(min-width:1120px){.mw-parser-output .ts-disambig-projectLink{clear:right;float:right;margin-top:-2.25em}.mw-parser-output .ts-disambig-projectLink>*{font-size:inherit}}.mw-parser-output ul+p>br:only-child{display:none}</style><div class="ts-disambig"><div class="ts-disambig-reflist"><div role="heading" aria-level="2">Примечания</div></div><div id="disambig" role="note" class="ts-disambig-mbox metadata plainlinks"><div class="ts-disambig-block"><div class="ts-disambig-image"><span class="noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Disambig.svg/40px-Disambig.svg.png" decoding="async" width="30" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Disambig.svg/60px-Disambig.svg.png 1.5x" data-file-width="230" data-file-height="183" /></span></span></div><div class="ts-disambig-text"><div><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C#Страницы_значений" title="Википедия:Неоднозначность">Список значений слова или&#160;словосочетания со&#160;ссылками на&#160;соответствующие статьи.</a></div><div>Если вы попали сюда из&#160;<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:WhatLinksHere/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)&amp;namespace=0&amp;hidetrans=1"><span title="Ссылки на&#160;эту страницу из&#160;других статей">другой статьи Википедии</span></a>, пожалуйста, вернитесь и&#160;<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA" title="Википедия:Толкование ссылок">уточните ссылку</a> так, чтобы&#160;она указывала на&#160;нужную статью.</div></div></div><div class="ts-disambig-block"><div class="ts-disambig-image"></div><div class="ts-disambig-text"> См.&#160;также  <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%83_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Служебная:Указатель по началу названия/Россия">страницы с&#160;«Россия» в&#160;начале названия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Search&amp;search=intitle%3A%22%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%22&amp;sort=create_timestamp_desc">поиск по&#160;названиям</a>.</div></div><div class="ts-disambig-block ts-disambig-listIntro"><div class="ts-disambig-image"></div><div class="ts-disambig-text">На этой странице приведены:</div></div><ul role="list" class="ts-disambig-list"><li class="ts-disambig-block"><div class="ts-disambig-image"><span class="noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Heraldique_meuble_Vaisseau.svg/20px-Heraldique_meuble_Vaisseau.svg.png" decoding="async" width="20" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Heraldique_meuble_Vaisseau.svg/40px-Heraldique_meuble_Vaisseau.svg.png 1.5x" data-file-width="470" data-file-height="450" /></span></span></div><div class="ts-disambig-text">Список статей об&#160;одноимённых кораблях и&#160;судах.</div></li><li class="ts-disambig-block"><div class="ts-disambig-image"><span class="noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Splictacular.svg/20px-Splictacular.svg.png" decoding="async" width="20" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Splictacular.svg/40px-Splictacular.svg.png 1.5x" data-file-width="496" data-file-height="474" /></span></span></div><div class="ts-disambig-text">Другие значения.</div></li></ul></div><div class="ts-disambig-projectLink plainlinks group-user-show"><span><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_disambig-broom.svg/20px-Logo_disambig-broom.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_disambig-broom.svg/40px-Logo_disambig-broom.svg.png 1.5x" data-file-width="400" data-file-height="400" /></span></span><a class="external text" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9">Проект «Страницы значений»</a></span></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐547cc4c987‐8f7kc
+Cached time: 20260216150057
+Cache expiry: 1802
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.191 seconds
+Real time usage: 0.286 seconds
+Preprocessor visited node count: 775/1000000
+Revision size: 16489/2097152 bytes
+Post‐expand include size: 64160/2097152 bytes
+Template argument size: 1168/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6029/5000000 bytes
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 3085324/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  200.122      1 -total
+ 43.18%   86.407      1 Шаблон:Навигация
+ 17.28%   34.571      1 Шаблон:Неоднозначность
+ 14.98%   29.983      1 Шаблон:Россия_в_темах
+ 13.75%   27.522      1 Шаблон:Навигационная_таблица
+  7.73%   15.478      1 Шаблон:Примечания
+  6.00%   12.013      1 Шаблон:Main
+  5.35%   10.697      1 Шаблон:Comment
+  5.24%   10.489      1 Шаблон:Cite_web
+  4.54%    9.094      3 Шаблон:Replace
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:202443:|#|:idhash:canonical and timestamp 20260216150057 and revision id 149615196. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Россия_(значения)&amp;oldid=149615196">https://ru.wikipedia.org/w/index.php?title=Россия_(значения)&amp;oldid=149615196</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Страницы значений по алфавиту">Страницы значений по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9:%D0%A1%D1%83%D0%B4%D0%B0_%D0%B8_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8" title="Категория:Страницы значений:Суда и корабли">Страницы значений:Суда и корабли</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Категория:Статьи со ссылками на Викисловарь">Статьи со ссылками на Викисловарь</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B5%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE_%D0%B2_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5" title="Категория:Википедия:Ссылка на Викицитатник непосредственно в статье">Википедия:Ссылка на Викицитатник непосредственно в статье</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D1%83" title="Категория:Статьи со ссылками на Викитеку">Статьи со ссылками на Викитеку</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-associated-pages" class="mw-portlet mw-portlet-associated-pages vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-associated-pages-label"  >
+	<h3
+		id="p-associated-pages-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">associated-pages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected icon mw-list-item"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)"><span>Читать</span></a></li><li id="ca-viewsource" class="icon mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)&amp;action=edit" title="Эта страница защищена от изменений.&#10;Вы можете посмотреть её исходный текст. [e]" accesskey="e"><span>Просмотр кода</span></a></li><li id="ca-history" class="icon mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)&amp;oldid=149615196" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29&amp;id=149615196&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F_%28%25D0%25B7%25D0%25BD%25D0%25B0%25D1%2587%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F_%28%25D0%25B7%25D0%25BD%25D0%25B0%25D1%2587%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Russia_(disambiguation)" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://ru.wikiquote.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" hreflang="ru"><span>Викицитатник</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://ru.wikisource.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" hreflang="ru"><span>Викитека</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q398720" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7_(%D8%AA%D9%88%D8%B6%D9%8A%D8%AD)" title="روسيا (توضيح) — арабский" lang="ar" hreflang="ar" data-title="روسيا (توضيح)" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%B5%D1%8F_(%D0%BD%D0%B5%D0%B0%D0%B4%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%B0%D1%81%D1%8C%D1%86%D1%8C)" title="Расея (неадназначнасьць) — белорусский (тарашкевица)" lang="be-tarask" hreflang="be-tarask" data-title="Расея (неадназначнасьць)" data-language-autonym="Беларуская (тарашкевіца)" data-language-local-name="белорусский (тарашкевица)" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8_(%D0%BC%D0%B0%D1%8C%D3%80%D0%BD%D0%B0%D1%88)" title="Росси (маьӀнаш) — чеченский" lang="ce" hreflang="ce" data-title="Росси (маьӀнаш)" data-language-autonym="Нохчийн" data-language-local-name="чеченский" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%A0%D0%B0%C3%A7%C3%A7%D0%B5%D0%B9_(%D0%BF%C4%95%D0%BB%D1%82%D0%B5%D1%80%C4%95%D1%88%D1%81%D0%B5%D0%BC)" title="Раççей (пĕлтерĕшсем) — чувашский" lang="cv" hreflang="cv" data-title="Раççей (пĕлтерĕшсем)" data-language-autonym="Чӑвашла" data-language-local-name="чувашский" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Russia" title="Russia — немецкий" lang="de" hreflang="de" data-title="Russia" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Russia_(disambiguation)" title="Russia (disambiguation) — английский" lang="en" hreflang="en" data-title="Russia (disambiguation)" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Russia_(homonymie)" title="Russia (homonymie) — французский" lang="fr" hreflang="fr" data-title="Russia (homonymie)" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Russia_(disambigua)" title="Russia (disambigua) — итальянский" lang="it" hreflang="it" data-title="Russia (disambigua)" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2_(%E5%90%8D%E7%A7%B0)" title="ロシア (名称) — японский" lang="ja" hreflang="ja" data-title="ロシア (名称)" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%9F%AC%EC%8B%9C%EC%95%84_(%EB%8F%99%EC%9D%8C%EC%9D%B4%EC%9D%98)" title="러시아 (동음이의) — корейский" lang="ko" hreflang="ko" data-title="러시아 (동음이의)" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Russia_(discretiva)" title="Russia (discretiva) — латинский" lang="la" hreflang="la" data-title="Russia (discretiva)" data-language-autonym="Latina" data-language-local-name="латинский" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Russia" title="Russia — нидерландский" lang="nl" hreflang="nl" data-title="Russia" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Russia" title="Russia — польский" lang="pl" hreflang="pl" data-title="Russia" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%BB%E0%B7%94%E0%B7%83%E0%B7%92%E0%B6%BA%E0%B7%8F%E0%B7%80_(%E0%B6%B6%E0%B7%84%E0%B7%94%E0%B6%BB%E0%B7%94%E0%B6%AD%E0%B7%8A%E0%B7%84%E0%B6%BB%E0%B6%AB%E0%B6%BA)" title="රුසියාව (බහුරුත්හරණය) — сингальский" lang="si" hreflang="si" data-title="රුසියාව (බහුරුත්හරණය)" data-language-autonym="සිංහල" data-language-local-name="сингальский" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Russia" title="Russia — шведский" lang="sv" hreflang="sv" data-title="Russia" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_(%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%A7%E0%B8%A1)" title="รัสเซีย (แก้ความกำกวม) — тайский" lang="th" hreflang="th" data-title="รัสเซีย (แก้ความกำกวม)" data-language-autonym="ไทย" data-language-local-name="тайский" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F)" title="Росія (значення) — украинский" lang="uk" hreflang="uk" data-title="Росія (значення)" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9B%BD_(%E6%B6%88%E6%AD%A7%E4%B9%89)" title="俄国 (消歧义) — китайский" lang="zh" hreflang="zh" data-title="俄国 (消歧义)" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q398720#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 5 ноября 2025 года в 20:07.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-547cc4c987-8f7kc","wgBackendResponseTime":444,"wgPageParseReport":{"limitreport":{"cputime":"0.191","walltime":"0.286","ppvisitednodes":{"value":775,"limit":1000000},"revisionsize":{"value":16489,"limit":2097152},"postexpandincludesize":{"value":64160,"limit":2097152},"templateargumentsize":{"value":1168,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6029,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  200.122      1 -total"," 43.18%   86.407      1 Шаблон:Навигация"," 17.28%   34.571      1 Шаблон:Неоднозначность"," 14.98%   29.983      1 Шаблон:Россия_в_темах"," 13.75%   27.522      1 Шаблон:Навигационная_таблица","  7.73%   15.478      1 Шаблон:Примечания","  6.00%   12.013      1 Шаблон:Main","  5.35%   10.697      1 Шаблон:Comment","  5.24%   10.489      1 Шаблон:Cite_web","  4.54%    9.094      3 Шаблон:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.082","limit":"10.000"},"limitreport-memusage":{"value":3085324,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-547cc4c987-8f7kc","timestamp":"20260216150057","ttl":1802,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0420\u043e\u0441\u0441\u0438\u044f (\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q398720","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q398720","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-12T13:05:47Z","headline":"\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439"}</script>
+</body>
+</html>
