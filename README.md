@@ -1,7 +1,5 @@
 ## Запуск
 
-Из директории `3_task`:
-
 ```bash
 python3 boolean_search.py
 ```
