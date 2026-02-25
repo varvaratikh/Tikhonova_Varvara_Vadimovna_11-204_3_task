@@ -2,9 +2,12 @@ from __future__ import annotations
 
 import argparse
 import html
+import inspect
 import re
-from collections import defaultdict
+import sys
+from collections import defaultdict, namedtuple
 from pathlib import Path
+from typing import Any
 
 
 # регулярные выражения для очистки HTML
@@ -13,7 +16,7 @@ COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 TAG_RE = re.compile(r"<[^>]+>")
 WHITESPACE_RE = re.compile(r"\s+")
 
-# термы
+# термы в документах: кириллица, допускается дефис
 TERM_RE = re.compile(r"[а-яё]+(?:-[а-яё]+)?", re.IGNORECASE)
 
 # токены булевого запроса
@@ -27,8 +30,57 @@ PRECEDENCE = {"NOT": 3, "AND": 2, "OR": 1}
 RIGHT_ASSOC = {"NOT"}
 
 
+def patch_inspect_getargspec() -> None:
+    if hasattr(inspect, "getargspec"):
+        return
+
+    ArgSpec = namedtuple("ArgSpec", "args varargs keywords defaults")
+
+    def getargspec(func):
+        spec = inspect.getfullargspec(func)
+        return ArgSpec(spec.args, spec.varargs, spec.varkw, spec.defaults)
+
+    inspect.getargspec = getargspec
+
+
+def find_and_attach_local_pymorphy2_paths(project_root: Path) -> None:
+    """ищет соседние venv и добавляет site-packages с pymorphy2 в sys.path"""
+    parent = project_root.parent
+    for site_packages in parent.glob("*/.venv/lib/python*/site-packages"):
+        if (site_packages / "pymorphy2").exists():
+            sys.path.append(str(site_packages))
+
+
+def get_morph_analyzer(project_root: Path) -> Any | None:
+    """возвращает MorphAnalyzer (pymorphy3/pymorphy2) или None"""
+    patch_inspect_getargspec()
+
+    try:
+        import pymorphy3
+
+        return pymorphy3.MorphAnalyzer()
+    except Exception:
+        pass
+
+    try:
+        import pymorphy2
+
+        return pymorphy2.MorphAnalyzer()
+    except Exception:
+        pass
+
+    find_and_attach_local_pymorphy2_paths(project_root)
+
+    try:
+        import pymorphy2
+
+        return pymorphy2.MorphAnalyzer()
+    except Exception:
+        return None
+
+
 def clean_html(raw_html: str) -> str:
-    """удаляет основную HTML-разметку и оставляет текст"""
+    """удаляет базовую HTML-разметку и оставляет текст"""
     text = SCRIPT_STYLE_RE.sub(" ", raw_html)
     text = COMMENT_RE.sub(" ", text)
     text = TAG_RE.sub(" ", text)
@@ -47,10 +99,30 @@ def extract_terms(text: str) -> set[str]:
     }
 
 
-def build_inverted_index(pages_dir: Path) -> tuple[dict[str, list[str]], set[str]]:
-    """
-    строит инвертированный индекс
-    """
+def normalize_term(term: str, morph: Any | None, lemma_cache: dict[str, str]) -> str:
+    """приводит терм к лемме с кешированием результата"""
+    token = term.lower()
+    cached = lemma_cache.get(token)
+    if cached is not None:
+        return cached
+
+    lemma = token
+    if morph is not None:
+        try:
+            lemma = morph.parse(token)[0].normal_form.lower()
+        except Exception:
+            lemma = token
+
+    lemma_cache[token] = lemma
+    return lemma
+
+
+def build_inverted_index(
+    pages_dir: Path,
+    morph: Any | None,
+    lemma_cache: dict[str, str],
+) -> tuple[dict[str, list[str]], set[str]]:
+    """строит лемматизированный инвертированный индекс: lemma -> sorted doc_ids"""
     if not pages_dir.exists():
         raise FileNotFoundError(f"Не найдена директория с документами: {pages_dir}")
 
@@ -65,29 +137,33 @@ def build_inverted_index(pages_dir: Path) -> tuple[dict[str, list[str]], set[str
         text = clean_html(raw_html)
         terms = extract_terms(text)
 
-        for term in terms:
-            postings[term].add(doc_id)
+        lemmas_in_doc = {
+            normalize_term(term, morph, lemma_cache)
+            for term in terms
+        }
 
-    inverted_index = {term: sorted(doc_ids) for term, doc_ids in postings.items()}
+        for lemma in lemmas_in_doc:
+            postings[lemma].add(doc_id)
+
+    inverted_index = {lemma: sorted(doc_ids) for lemma, doc_ids in postings.items()}
     return inverted_index, all_docs
 
 
 def save_inverted_index(index: dict[str, list[str]], output_path: Path) -> None:
+    """сохраняет индекс в формате: <lemma> <doc1> ... <docN>"""
     lines = []
-    for term in sorted(index):
-        lines.append(f"{term} {' '.join(index[term])}")
+    for lemma in sorted(index):
+        lines.append(f"{lemma} {' '.join(index[lemma])}")
     output_path.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
 
 
 def tokenize_query(query: str) -> list[str]:
-    """
-    разбирает строку запроса в токены и валидирует недопустимые фрагменты
-    """
+    """разбирает строку запроса в токены и валидирует недопустимые фрагменты"""
     tokens: list[str] = []
     cursor = 0
 
     for match in QUERY_TOKEN_RE.finditer(query):
-        gap = query[cursor : match.start()]
+        gap = query[cursor:match.start()]
         if gap.strip():
             raise ValueError(f"Недопустимый фрагмент в запросе: {gap.strip()}")
         tokens.append(match.group(0))
@@ -113,14 +189,27 @@ def tokenize_query(query: str) -> list[str]:
 
 
 def is_term(token: str) -> bool:
-    """проверяет, является ли токен термом (а не оператором/скобкой)"""
+    """проверяет, является ли токен термом, а не оператором/скобкой"""
     return token not in OPERATORS and token not in {"(", ")"}
 
 
+def lemmatize_query_terms(
+    tokens: list[str],
+    morph: Any | None,
+    lemma_cache: dict[str, str],
+) -> list[str]:
+    """лемматизирует только термы запроса; операторы и скобки не меняет"""
+    result: list[str] = []
+    for token in tokens:
+        if is_term(token):
+            result.append(normalize_term(token, morph, lemma_cache))
+        else:
+            result.append(token)
+    return result
+
+
 def add_implicit_and(tokens: list[str]) -> list[str]:
-    """
-    добавляет неявный AND между соседними термами/скобками
-    """
+    """добавляет неявный AND между соседними термами/скобками"""
     if not tokens:
         return tokens
 
@@ -138,6 +227,7 @@ def add_implicit_and(tokens: list[str]) -> list[str]:
 
 
 def to_postfix(tokens: list[str]) -> list[str]:
+    """переводит инфиксный булев запрос в постфиксную форму"""
     output: list[str] = []
     stack: list[str] = []
     expect_operand = True
@@ -168,7 +258,6 @@ def to_postfix(tokens: list[str]) -> list[str]:
             expect_operand = False
             continue
 
-        #обработка операторов AND / OR / NOT
         if token == "NOT":
             if not expect_operand:
                 raise ValueError("Оператор NOT стоит в неверной позиции")
@@ -178,9 +267,9 @@ def to_postfix(tokens: list[str]) -> list[str]:
             expect_operand = True
             continue
 
-        #для бинарных операторов AND / OR
         if expect_operand:
             raise ValueError(f"Ожидался терм/NOT/'(', найден оператор '{token}'")
+
         while stack and stack[-1] != "(" and (
             PRECEDENCE[stack[-1]] > PRECEDENCE[token]
             or (PRECEDENCE[stack[-1]] == PRECEDENCE[token] and token not in RIGHT_ASSOC)
@@ -206,6 +295,7 @@ def evaluate_postfix(
     index: dict[str, list[str]],
     all_docs: set[str],
 ) -> list[str]:
+    """вычисляет постфиксный булев запрос над индексом"""
     stack: list[set[str]] = []
 
     for token in postfix:
@@ -222,6 +312,7 @@ def evaluate_postfix(
 
         if len(stack) < 2:
             raise ValueError(f"Некорректный запрос: оператор '{token}' без двух операндов")
+
         right = stack.pop()
         left = stack.pop()
 
@@ -238,8 +329,16 @@ def evaluate_postfix(
     return sorted(stack[0])
 
 
-def boolean_search(query: str, index: dict[str, list[str]], all_docs: set[str]) -> list[str]:
+def boolean_search(
+    query: str,
+    index: dict[str, list[str]],
+    all_docs: set[str],
+    morph: Any | None,
+    lemma_cache: dict[str, str],
+) -> list[str]:
+    """полный цикл: токенизация -> лемматизация -> постфикс -> вычисление"""
     tokens = tokenize_query(query)
+    tokens = lemmatize_query_terms(tokens, morph, lemma_cache)
     tokens = add_implicit_and(tokens)
     postfix = to_postfix(tokens)
     return evaluate_postfix(postfix, index, all_docs)
@@ -247,7 +346,7 @@ def boolean_search(query: str, index: dict[str, list[str]], all_docs: set[str]) 
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Построение инвертированного индекса и булев поиск (AND/OR/NOT)."
+        description="Построение инвертированного индекса по леммам и булев поиск (AND/OR/NOT)."
     )
     parser.add_argument(
         "--pages-dir",
@@ -266,22 +365,28 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    project_root = Path(__file__).resolve().parent
     pages_dir = Path(args.pages_dir).resolve()
     index_output = Path(args.index_output).resolve()
 
-    index, all_docs = build_inverted_index(pages_dir)
+    morph = get_morph_analyzer(project_root)
+    lemma_cache: dict[str, str] = {}
+
+    index, all_docs = build_inverted_index(pages_dir, morph, lemma_cache)
     save_inverted_index(index, index_output)
 
     print(f"Документов обработано: {len(all_docs)}")
-    print(f"Уникальных терминов в индексе: {len(index)}")
+    print(f"Уникальных лемм в индексе: {len(index)}")
     print(f"Индекс сохранён: {index_output}")
+    if morph is None:
+        print("Внимание: pymorphy не найден, использован режим без морфоанализа.")
 
     query = args.query if args.query is not None else input("Введите булев запрос: ").strip()
     if not query:
         print("Поиск пропущен: пустая строка запроса.")
         return
 
-    result_docs = boolean_search(query, index, all_docs)
+    result_docs = boolean_search(query, index, all_docs, morph, lemma_cache)
     print(f"Запрос: {query}")
     print(f"Найдено документов: {len(result_docs)}")
     if result_docs:
